@@ -15,10 +15,19 @@
 <img src="https://img.shields.io/github/stars/The-Young-Programmer/C-CPP-Programming-Project?logo=github">
 <img src="https://img.shields.io/github/issues/The-Young-Programmer/C-CPP-Programming-Project?logo=github">
 <img src="https://komarev.com/ghpvc/?username=C-CPP-Programming-Project&label=Visitors&color=0e75b6&style=flat"/> 
+<a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/issues">
+<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
+</a>
 </p>
 
 <h2>Introduction</h2>
 <p> </p>
 
-<h2>Projects</h2>
-<p> </p>
+<hr>
+
+
+## Contents
+
+- Basic Calculator (GUI)
+- Hotel Management System
+- Sci. Calculator (GUI)
