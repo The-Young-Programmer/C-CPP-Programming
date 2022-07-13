@@ -3,13 +3,14 @@
 Hotel Booking Management System
 </h1>
 
-
 Hotel Booking Management System in C++ 
 
 
-       
-   <img src="https://user-images.githubusercontent.com/79866006/177529716-9ec4b8be-0d04-4fc6-84ab-fb15fb8298e6.png" alt="Hotel Management System" class="center">
 
+![C__Users_Admin_Desktop_main3 exe](https://user-images.githubusercontent.com/79866006/178736172-c6bd256a-61f7-4480-abc9-449384177760.png)
+
+   
+   
 
 <p>
 <br><br>
@@ -38,8 +39,38 @@ Features of this C++ language based project :
 
 
 
-<h2>How to Download </h2>
+![C__Users_Admin_Desktop_main exe](https://user-images.githubusercontent.com/79866006/178735392-b2ebb426-4c1a-4454-a60b-ce57a5728873.png)
 
+
+
+
+
+
+![C__Users_Admin_Desktop_main2 exe](https://user-images.githubusercontent.com/79866006/178735893-58009dca-7ff1-4c7d-a579-fe1ae27188df.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>How to Download </h2>
+<p><b>download CodeBlocks</b></p>
+
+- I will be using Code::Blocks in this Project, which I believe is a good place to start.
+- You can find the latest version of Codeblocks at http://www.codeblocks.org/.
+- Download the mingw-setup.exe file, which will install the text editor with a compiler.
+
+<p><b>download Project</b></p>
+
+- Download the Hotel Management ZIP file
+- run the `main.exe` file by double clicking it
 
 
 
