@@ -8,6 +8,8 @@
 </h1>
 
 <p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br><br>
 <a href="#">
 <img src="https://travis-ci.org/github/github.svg" alt="Build Status">
 </a>
@@ -28,6 +30,8 @@
 
 ## Contents
 
+- Bank Management system 
 - Basic Calculator (GUI)
 - Hotel Management System
 - Sci. Calculator (GUI)
+- Tic-Tac-Toe hame
