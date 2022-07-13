@@ -114,10 +114,42 @@ int main() {
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br><br>
 
+<p><b>What is C Programming Language ?</b>
+C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.
+
+It is a very popular language, despite being old.
+
+C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
+
+**NOTE**
+C and C++ uses the same compiler and IDE
+</p>
+
+<h4> Quick Start :</h4>
+
+<p>
+
+- Let's create our first C file.
+- Open **Codeblocks** and go to File > New > Empty File.
+- Write the following C code and save the file as **myfirstprogram.c** (File > Save File as):
+
+```
+// myfirstprogram.c
 
 
+#include <stdio.h>
 
+int main() {
+  printf("Hello World!");
+  return 0;
+}
+```
 
+## Difference between <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> and <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+C++ was developed as an extension of C, and both languages have almost the same syntax.
+
+The main difference between C and C++ is that C++ support classes and objects, while C does not.
 
 
 
