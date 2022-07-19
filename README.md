@@ -29,12 +29,13 @@
 - Introduction C
 - Difference
 - Projects
-- Bank Management system 
-- Basic Calculator (GUI)
-- Hotel Management System
-- Sci. Calculator (GUI)
-- Tic-Tac-Toe hame
-
+     - Bank Management system 
+     - Basic Calculator (GUI)
+     - Hotel Management System
+     - Sci. Calculator (GUI)
+     - Tic-Tac-Toe game
+- Contributors
+- Info
 
 
 
