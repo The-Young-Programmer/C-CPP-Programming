@@ -8,7 +8,7 @@ Programmer           : Nemonet TYP
 Software Details
 ====================
 Developed in   : C++
-Compiler used  : TC++ 3.0
+Compiler used  : CodeBlocks
 OS             : Windows OS
 
 
