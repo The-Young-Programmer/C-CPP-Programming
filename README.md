@@ -216,10 +216,12 @@ int main() {
  
  <p><b>For Windodws, Linux and MacOS</b><br>
   * Install `code::blocks` by going to there oficial website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
- </p><p>
+ </p>
+ <p>
   <b>For Andriod OS</b><br>
   * Install `C4Droid` on playstore, <a href="https://play.google.com/store/apps/details?id=com.n0n3m4.droidc">C4Droid</a>
-  </p><p>
+  </p>
+ <p>
   <b>For IOS</b><br>
   * Visit Appstore and download <a href="https://apps.apple.com/us/app/c-c-program-compiler/id1160868782">C/C++ Program Compiler</a>
  </p>
@@ -244,13 +246,13 @@ int main() {
 }
  ```
  
- <b>Example Explained:<b>
+ <b>Example Explained:</b>
   
 **Line 1:**  `#include <iostream>` is a header file library that lets us work with input and output objects, such as cout (used in line 5). Header files add functionality to C++ programs.
 
- <b>Line 2:</b>  `using namespace std` means that we can use names for objects and variables from the standard library.
+ **Line 2:**  `using namespace std` means that we can use names for objects and variables from the standard library.
   
- <b>Line 3:</b>  A blank line. C++ ignores white space. But we use it to make the code more readable.
+ **Line 3:**  A blank line. C++ ignores white space. But we use it to make the code more readable.
 
  **Line 4:**  Another thing that always appear in a C++ program, is `int main()`. This is called a function. Any code inside its curly brackets {} will be executed.
 
@@ -266,6 +268,84 @@ int main() {
  **Line 6:**  `return 0` ends the main function.
 
  **Line 7:**  Do not forget to add the closing curly bracket `}` to actually end the main function.
+ 
+ <br>
+ #### Escape Sequence in C++
+ 
+| Escape Sequence            |                    Description                |
+| -------------------------- | :-------------------------------------------: |
+| \n   or  endl              |    To insert a new line or to break lines     |
+| \n\n                       |         create a blank line                   |
+|      \t                    |         Creates a horizontal tab              |
+|       \\                   |   Inserts a backslash character (\)           |
+|         \"                 |         Inserts a double quote character      | 
+
+ 
+ <hr><br><br>
+  <a id="comment"></a>
+ 
+ ## Comment in C++
+ 
+ * Comments can be used to explain C++ code, and to make it more readable. 
+ * It can also be used to prevent execution when testing alternative code.
+ * Comments can be singled-lined or multi-lined.
+ 
+ 1. Single-line comments start with two forward slashes (//).
+ 
+ ```
+ // This is a comment
+cout << "Hello World!";
+ ```
+ 
+ 2. Multi-line comments start with /* and ends with */.
+ 
+ ```
+ /* The code below will print the words Hello World!
+to the screen, and it is amazing */
+cout << "Hello World!";
+ ```
+ 
+ <hr><br><br>
+  <a id="variables"></a>
+ 
+## Variables in C++
+ 
+1. Variables are containers for storing data values.
+
+In C++, there are different types of variables (defined with different keywords), for example:
+
+* `int` - stores integers (whole numbers), without decimals, such as 123 or -123
+* `double` - stores floating point numbers, with decimals, such as 19.99 or -19.99
+* `char` - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+* `string` - stores text, such as "Hello World". String values are surrounded by double quotes
+* `bool` - stores values with two states: true or false
+ 
+2. To create a variable, specify the type and assign it a value:
+ `type variableName = value;`
+ 
+ **Note:** Where `type` is one of C++ types (such as `int`), and `variableName` is the name of the variable (such as x or myName). The equal sign is used to assign values to the variable.
+ 
+3. Variable Declaration:
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
