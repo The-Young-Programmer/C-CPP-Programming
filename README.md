@@ -4,7 +4,7 @@
 
 <hr>
 <h1 align="center">
- C/C++ Programming Project
+ Introduction to C/C++ Programming for Beginners
 </h1>
 
 <p align="center">
@@ -22,18 +22,67 @@
 </a>
 </p>
 
+<p align="center">
+ <a href="#"><img src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white"></a>
+ <a href="#"><img src="https://img.shields.io/badge/W3school-brightgreen?style=flat&logo=W3school&logoColor=brightgreen"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Tutorials-Point-blue?style=flat&logo=tutorials-point&logoColor=blue"></a>
+
 
 ## Contents
 
-- Introduction C++
-- Introduction C
-- Difference
-- Projects
-     - Bank Management system 
-     - Basic Calculator (GUI)
-     - Hotel Management System
-     - Sci. Calculator (GUI)
-     - Tic-Tac-Toe game
+
+`> Click the drop-down to view the outline`
+
+<details><summary>Introduction</summary>
+ 
+  - [Introduction to C++](#-introduction-to-c++-)
+ 
+  - [Introduction to C](#-introducion-to-c-)
+ 
+  - [Differences](#differences-) 
+ 
+  - [Compiler](#compiler-)
+ 
+</details>
+
+<details><summary>C++ Basics</summary>
+ 
+  - [Syntax](#syntax-)
+ 
+  - [Comments](#comments-)
+ 
+  - [Variables](#variables-) 
+ 
+  - [User Input](#user-input-)
+ 
+  - [Data Types](#data-types-)
+ 
+  - [Operators](#operators-)
+ 
+  - [Loop Types](#loop-types-) 
+ 
+  
+ 
+ 
+</details>
+
+
+<details><summary>Simple Projects</summary>
+ 
+  - [Bank Management system ](#-bank-management-system-)
+ 
+  - [Basic Calculator (GUI)](#-basic-calculator-)
+ 
+  - [Hotel Management System](#-hotel-management-system-) 
+ 
+  - [Sci. Calculator (GUI)](#-sci.-calculator-)
+ 
+  - [Tic-Tac-Toe game](#-tic-tac-toe-game-)
+ 
+</details>
+
+
+- [How To Contribute](#-how-to-contribute-)
 - Contributors
 - Info
 
@@ -41,7 +90,7 @@
 
 
 
-<h1>Introduction C++</h1>
+## Introduction to C++ [](#-introduction-to-c++-)
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <p><b>What is C++ Programming Language ?</b>
@@ -111,7 +160,7 @@ int main() {
 </p>
 
 <hr>
-<h1>Introduction C</h1>
+## Introduction to C
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br><br>
 
@@ -146,12 +195,44 @@ int main() {
 }
 ```
 
-## Difference between <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> and <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+## Differences [](#welcome) between <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> and <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
 
 C++ was developed as an extension of C, and both languages have almost the same syntax.
 
 The main difference between C and C++ is that C++ support classes and objects, while C does not.
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <br><br><br>
+ <p align="center">Join our <a href="https://github.com/TYP-Coding-Class/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<p align="center"><strong>Connect With Us</strong></p>
+<p align="center"> 
+<!--<a href="#"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>-->
+&nbsp;
+<!--<a href="#"><img alt="discord_logo" 
+src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>-->
+&nbsp;
+<a href="https://twitter.com/TNemonet"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+&nbsp;
+<a href="https://github.com/The-Young-Programmer"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/typ-nemonet"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+&nbsp;
+<!--<a href="#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>-->
+&nbsp;
+<a href="https://www.instagram.com/invites/contact/?i=tpssan2t0kkn&utm_content=3zo4x47""><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+</p>
+ 
+ 
+ 
+ 
