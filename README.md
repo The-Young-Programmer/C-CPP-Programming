@@ -26,7 +26,7 @@
  <a href="#"><img src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white"></a>
  <a href="#"><img src="https://img.shields.io/badge/W3school-brightgreen?style=flat&logo=W3school&logoColor=brightgreen"></a>
  <a href="#"><img src="https://img.shields.io/badge/Tutorials-Point-blue?style=flat&logo=tutorials-point&logoColor=blue"></a>
-
+</p><br>
 
 ## Contents
 
@@ -67,7 +67,31 @@
 </details>
 
 
-<details><summary>Simple Projects</summary>
+<details><summary>C Basics</summary>
+ 
+  - [Syntax](#)
+ 
+  - [Comments](#)
+ 
+  - [Variables](#) 
+ 
+  - [User Input](#)
+ 
+  - [Data Types](#)
+ 
+  - [Operators](#)
+ 
+  - [Loop Types](#) 
+ 
+  
+ 
+ 
+</details>
+
+
+
+
+<details><summary>Simple C/C++ Projects</summary>
  
   - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
  
