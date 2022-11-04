@@ -26,65 +26,81 @@
  <a href="#"><img src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white"></a>
  <a href="#"><img src="https://img.shields.io/badge/W3school-brightgreen?style=flat&logo=W3school&logoColor=brightgreen"></a>
  <a href="#"><img src="https://img.shields.io/badge/Tutorials-Point-blue?style=flat&logo=tutorials-point&logoColor=blue"></a>
-</p><br>
 
-<h2> Contents</h2>
+
+## Contents
 
 
 `> Click the drop-down to view the outline`
 
 <details><summary>Introduction</summary>
-<ul>
  
- <li><a href="#introduction-to-c++">Introduction to C++</a></li>
- <li><a href="#introduction-to-c">Introduction to C</a></li>
- <li><a href="#differences">Differences</a></li>
- <li><a href="#compiler">Compiler</a></li>
- </ul>
+  - [Introduction to C++](#introduction-to-c++)
+ 
+  - [Introduction to C](#introducion-to-c)
+ 
+  - [Differences](#differences) 
+ 
+  - [Compiler](#compiler)
+ 
 </details>
 
 <details><summary>C++ Basics</summary>
- <ul>
- <li><a href="#syntax">Syntax</a></li>
- <li><a href="#comments">Comments</a></li>
- <li><a href="#variables">Variables</a></li> 
- <li><a href="#user-input">User Input</a></li>
- <li><a href="#data-types">Data Types</a></li>
- <li><a href="#operators">Operators</a></li>
- <li><a href="#loop-types">Loop Types</a></li>
+ 
+  - [Syntax](#syntax)
+ 
+  - [Comments](#comments)
+ 
+  - [Variables](#variables) 
+ 
+  - [User Input](#user-input)
+ 
+  - [Data Types](#data-types)
+ 
+  - [Operators](#operators)
+ 
+  - [Loop Types](#loop-types) 
+ 
   
-</ul>
+ 
+ 
 </details>
+
 
 
 <details><summary>C Basics</summary>
- <ul>
- <li><a href="#">Syntax</a></li>
- <li><a href="#">Comments</a></li>
- <li><a href="#">Variables</a></li> 
- <li><a href="#">User Input</a></li>
- <li><a href="#">Data Types</a></li>
- <li><a href="#">Operators</a></li>
- <li><a href="#">Loop Types</a></li>
+ 
+  - [Syntax](#syn)
+ 
+  - [Comments](#com)
+ 
+  - [Variables](#va) 
+ 
+  - [User Input](#use)
+ 
+  - [Data Types](#d)
+ 
+  - [Operators](#ope)
+ 
+  - [Loop Types](#lo) 
+ 
   
-</ul>
+ 
+ 
 </details>
 
 
-
-
 <details><summary>Simple C/C++ Projects</summary>
-
- <ul>
- <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System"> Bank Management System</a></li>
  
- <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI)"> Basic Calculator (GUI) </a></li>
+  - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
  
- <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System">Hotel Management System </a></li>
+  - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI))
  
- <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI)">Sci. calculator (GUI)</a></li>
+  - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System) 
  
- <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game">Tic-Tac-Toe Game</a></li>
+  - [Sci. Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI))
+ 
+  - [Tic-Tac-Toe game](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game)
  
 </details>
 
@@ -101,45 +117,39 @@
  
 ## Introduction to C++
 
-<p><b>What is C++ Programming Language ?</b><br>
-<ul>
-<li>C++ is a cross-platform language that can be used to create high-performance applications.
-</li>
-<li>
-C++ was developed by Bjarne Stroustrup, as an extension to the C language.
-</li>
-<li>
- The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.
-</li>
-<li>
- C++ is fun and easy to learn!</li>
-<li>
- As C++ is close to C# and Java, it makes it easy for programmers to switch to C++ or vice versa.
-</li>
-</ul>
-</p>
+<p><b>What is C++ Programming Language ?</b>
+
+* C++ is a cross-platform language that can be used to create high-performance applications.
+
+* C++ was developed by Bjarne Stroustrup, as an extension to the C language.
+
+* The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.
+
+* C++ is fun and easy to learn!
+
+* As C++ is close to C# and Java, it makes it easy for programmers to switch to C++ or vice versa.
+ </p>
 
 ### C++ compiler /IDE 
 
 <p>
  To start using C++, you need two things:
-<ul>
-<li>
-A text editor, like Notepad, to write C++ code</li>
-<li> A compiler, like GCC, to translate the C++ code into a language that the computer will understand
-<br>
+
+- A text editor, like Notepad, to write C++ code
+- A compiler, like GCC, to translate the C++ code into a language that the computer will understand
+
 An IDE (Integrated Development Environment) is used to edit AND compile the code.
-<br><p>
-Popular IDE's include:</p><p>
- `Code::Blocks`, `Eclipse`, and `Visual Studio`.</p>
+
+Popular IDE's include:
+ `Code::Blocks`, `Eclipse`, and `Visual Studio`.
  These are all free, and they can be used to both edit and debug C++ code.
-<br>
+
 I will be using `Code::Blocks` in this Project, which I believe is a good place to start.
-<br>
+
 You can find the latest version of Codeblocks at http://www.codeblocks.org/. 
-<br>
+
 Download the `mingw-setup.exe file`, which will install the text editor with a compiler.
-</li></ul</p>
+</p>
 
 ### Quick Start :
 
@@ -181,6 +191,8 @@ int main() {
 ## Introduction to C
 
 <p><b>What is C Programming Language ?</b>
+
+
 * C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.
 
 * It is a very popular language, despite being old.
@@ -228,15 +240,18 @@ int main() {
  
  
  <p><b>For Windodws, Linux and MacOS</b><br>
-  * Install `code::blocks` by going to there oficial website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
+
+* Install `code::blocks` by going to there oficial website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
  </p>
  <p>
   <b>For Andriod OS</b><br>
-  * Install `C4Droid` on playstore, <a href="https://play.google.com/store/apps/details?id=com.n0n3m4.droidc">C4Droid</a>
+
+* Install `C4Droid` on playstore, <a href="https://play.google.com/store/apps/details?id=com.n0n3m4.droidc">C4Droid</a>
   </p>
  <p>
   <b>For IOS</b><br>
-  * Visit Appstore and download <a href="https://apps.apple.com/us/app/c-c-program-compiler/id1160868782">C/C++ Program Compiler</a>
+
+* Visit Appstore and download <a href="https://apps.apple.com/us/app/c-c-program-compiler/id1160868782">C/C++ Program Compiler</a>
  </p>
  
  
@@ -283,7 +298,8 @@ int main() {
  **Line 7:**  Do not forget to add the closing curly bracket `}` to actually end the main function.
  
  <br>
- #### Escape Sequence in C++
+
+#### Escape Sequence in C++
  
 | Escape Sequence            |                    Description                |
 | -------------------------- | :-------------------------------------------: |
@@ -323,7 +339,7 @@ cout << "Hello World!";
  
 ## Variables in C++
  
-1. Variables are containers for storing data values.
+1. **Variables are containers for storing data values.**
 
 In C++, there are different types of variables (defined with different keywords), for example:
 
@@ -333,12 +349,14 @@ In C++, there are different types of variables (defined with different keywords)
 * `string` - stores text, such as "Hello World". String values are surrounded by double quotes
 * `bool` - stores values with two states: true or false
  
-2. To create a variable, specify the type and assign it a value:
+2. **To create a variable, specify the type and assign it a value:**
+
  `type variableName = value;`
  
  **Note:** Where `type` is one of C++ types (such as `int`), and `variableName` is the name of the variable (such as x or myName). The equal sign is used to assign values to the variable.
  
  **Example 1**
+
 Create a variable called x of type int and assign it the value 15:
 ```
 #include <iostream>
@@ -353,6 +371,7 @@ int main() {
 ```
 
 **Example 2**
+
 To add a variable to another variable, you can use the + operator:
 ```
 #include <iostream>
@@ -367,7 +386,8 @@ int main() {
 }
 ```
  
-3. Variable Declaration: Rules to declare a variable
+3. **Variable Declaration: Rules to declare a variable**
+
  * The first letter of a variable should be alphabet or underscore (_)
  * The first letter of a variable should not be digit
  * Names are case sensitive (`myVar` and `myvar` are different variables)
@@ -376,10 +396,10 @@ int main() {
  * Variable name should not be a keyword
  
  
-4. To declare more than one variable of the same type, use a comma-separated list:
+4. **To declare more than one variable of the same type, use a comma-separated list:**
  
-     ```
-     #include <iostream>
+```
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -388,9 +408,15 @@ int main() {
   return 0;
 }
 
-     ```
+```
  
  5. 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
