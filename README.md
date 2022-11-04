@@ -28,93 +28,63 @@
  <a href="#"><img src="https://img.shields.io/badge/Tutorials-Point-blue?style=flat&logo=tutorials-point&logoColor=blue"></a>
 </p><br>
 
-## Contents
+<h2> Contents</h2>
 
 
 `> Click the drop-down to view the outline`
 
 <details><summary>Introduction</summary>
+<ul>
  
-  - [Introduction to C++](#introduction-to-c++)
- 
-  - [Introduction to C](#introducion-to-c)
- 
-  - [Differences](#differences) 
- 
-  - [Compiler](#compiler)
- 
+ <li><a href="#introduction-to-c++">Introduction to C++</a></li>
+ <li><a href="#introduction-to-c">Introduction to C</a></li>
+ <li><a href="#differences">Differences</a></li>
+ <li><a href="#compiler">Compiler</a></li>
+ </ul>
 </details>
 
 <details><summary>C++ Basics</summary>
- 
-  - [Syntax](#syntax)
- 
-  - [Comments](#comments)
- 
-  - [Variables](#variables) 
- 
-  - [User Input](#user-input)
- 
-  - [Data Types](#data-types)
- 
-  - [Operators](#operators)
- 
-  - [Loop Types](#loop-types) 
+ <ul>
+ <li><a href="#syntax">Syntax</a></li>
+ <li><a href="#comments">Comments</a></li>
+ <li><a href="#variables">Variables</a></li> 
+ <li><a href="#user-input">User Input</a></li>
+ <li><a href="#data-types">Data Types</a></li>
+ <li><a href="#operators">Operators</a></li>
+ <li><a href="#loop-types">Loop Types</a></li>
   
-
-  
- 
-  - [Variables](#variables) 
- 
-  - [User Input](#user-input)
- 
-  - [Data Types](#data-types)
- 
-  - [Operators](#operators)
- 
-  - [Loop Types](#loop-types) 
- 
-  
- 
- 
+</ul>
 </details>
 
 
 <details><summary>C Basics</summary>
- 
-  - [Syntax](#)
- 
-  - [Comments](#)
- 
-  - [Variables](#) 
- 
-  - [User Input](#)
- 
-  - [Data Types](#)
- 
-  - [Operators](#)
- 
-  - [Loop Types](#) 
- 
+ <ul>
+ <li><a href="#">Syntax</a></li>
+ <li><a href="#">Comments</a></li>
+ <li><a href="#">Variables</a></li> 
+ <li><a href="#">User Input</a></li>
+ <li><a href="#">Data Types</a></li>
+ <li><a href="#">Operators</a></li>
+ <li><a href="#">Loop Types</a></li>
   
- 
- 
+</ul>
 </details>
 
 
 
 
 <details><summary>Simple C/C++ Projects</summary>
+
+ <ul>
+ <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System"> Bank Management System</a></li>
  
-  - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
+ <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI)"> Basic Calculator (GUI) </a></li>
  
-  - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI))
+ <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System">Hotel Management System </a></li>
  
-  - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System) 
+ <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI)">Sci. calculator (GUI)</a></li>
  
-  - [Sci. Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI))
- 
-  - [Tic-Tac-Toe game](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game)
+ <li><a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game">Tic-Tac-Toe Game</a></li>
  
 </details>
 
@@ -131,39 +101,45 @@
  
 ## Introduction to C++
 
-<p><b>What is C++ Programming Language ?</b>
-
-* C++ is a cross-platform language that can be used to create high-performance applications.
-
-* C++ was developed by Bjarne Stroustrup, as an extension to the C language.
-
-* The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.
-
-* C++ is fun and easy to learn!
-
-* As C++ is close to C# and Java, it makes it easy for programmers to switch to C++ or vice versa.
- </p>
+<p><b>What is C++ Programming Language ?</b><br>
+<ul>
+<li>C++ is a cross-platform language that can be used to create high-performance applications.
+</li>
+<li>
+C++ was developed by Bjarne Stroustrup, as an extension to the C language.
+</li>
+<li>
+ The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.
+</li>
+<li>
+ C++ is fun and easy to learn!</li>
+<li>
+ As C++ is close to C# and Java, it makes it easy for programmers to switch to C++ or vice versa.
+</li>
+</ul>
+</p>
 
 ### C++ compiler /IDE 
 
 <p>
  To start using C++, you need two things:
-
-- A text editor, like Notepad, to write C++ code
-- A compiler, like GCC, to translate the C++ code into a language that the computer will understand
-
+<ul>
+<li>
+A text editor, like Notepad, to write C++ code</li>
+<li> A compiler, like GCC, to translate the C++ code into a language that the computer will understand
+<br>
 An IDE (Integrated Development Environment) is used to edit AND compile the code.
-
-Popular IDE's include:
- `Code::Blocks`, `Eclipse`, and `Visual Studio`.
+<br><p>
+Popular IDE's include:</p><p>
+ `Code::Blocks`, `Eclipse`, and `Visual Studio`.</p>
  These are all free, and they can be used to both edit and debug C++ code.
-
+<br>
 I will be using `Code::Blocks` in this Project, which I believe is a good place to start.
-
+<br>
 You can find the latest version of Codeblocks at http://www.codeblocks.org/. 
-
+<br>
 Download the `mingw-setup.exe file`, which will install the text editor with a compiler.
-</p>
+</li></ul</p>
 
 ### Quick Start :
 
