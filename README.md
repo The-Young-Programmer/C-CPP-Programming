@@ -67,7 +67,30 @@
 </details>
 
 
-<details><summary>Simple Projects</summary>
+
+<details><summary>C Basics</summary>
+ 
+  - [Syntax](#syn)
+ 
+  - [Comments](#com)
+ 
+  - [Variables](#va) 
+ 
+  - [User Input](#use)
+ 
+  - [Data Types](#d)
+ 
+  - [Operators](#ope)
+ 
+  - [Loop Types](#lo) 
+ 
+  
+ 
+ 
+</details>
+
+
+<details><summary>Simple C/C++ Projects</summary>
  
   - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
  
@@ -168,6 +191,8 @@ int main() {
 ## Introduction to C
 
 <p><b>What is C Programming Language ?</b>
+
+
 * C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.
 
 * It is a very popular language, despite being old.
@@ -215,15 +240,18 @@ int main() {
  
  
  <p><b>For Windodws, Linux and MacOS</b><br>
-  * Install `code::blocks` by going to there oficial website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
+
+* Install `code::blocks` by going to there oficial website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
  </p>
  <p>
   <b>For Andriod OS</b><br>
-  * Install `C4Droid` on playstore, <a href="https://play.google.com/store/apps/details?id=com.n0n3m4.droidc">C4Droid</a>
+
+* Install `C4Droid` on playstore, <a href="https://play.google.com/store/apps/details?id=com.n0n3m4.droidc">C4Droid</a>
   </p>
  <p>
   <b>For IOS</b><br>
-  * Visit Appstore and download <a href="https://apps.apple.com/us/app/c-c-program-compiler/id1160868782">C/C++ Program Compiler</a>
+
+* Visit Appstore and download <a href="https://apps.apple.com/us/app/c-c-program-compiler/id1160868782">C/C++ Program Compiler</a>
  </p>
  
  
@@ -270,7 +298,8 @@ int main() {
  **Line 7:**  Do not forget to add the closing curly bracket `}` to actually end the main function.
  
  <br>
- #### Escape Sequence in C++
+
+#### Escape Sequence in C++
  
 | Escape Sequence            |                    Description                |
 | -------------------------- | :-------------------------------------------: |
@@ -310,7 +339,7 @@ cout << "Hello World!";
  
 ## Variables in C++
  
-1. Variables are containers for storing data values.
+1. **Variables are containers for storing data values.**
 
 In C++, there are different types of variables (defined with different keywords), for example:
 
@@ -320,15 +349,68 @@ In C++, there are different types of variables (defined with different keywords)
 * `string` - stores text, such as "Hello World". String values are surrounded by double quotes
 * `bool` - stores values with two states: true or false
  
-2. To create a variable, specify the type and assign it a value:
+2. **To create a variable, specify the type and assign it a value:**
+
  `type variableName = value;`
  
  **Note:** Where `type` is one of C++ types (such as `int`), and `variableName` is the name of the variable (such as x or myName). The equal sign is used to assign values to the variable.
  
-3. Variable Declaration:
- * 
+ **Example 1**
+
+Create a variable called x of type int and assign it the value 15:
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+  int myNum = 15;
+  cout << myNum;
+  return 0;
+}
+
+```
+
+**Example 2**
+
+To add a variable to another variable, you can use the + operator:
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+  int x = 5;
+  int y = 6;
+  int sum = x + y;
+  cout << sum;
+  return 0;
+}
+```
+ 
+3. **Variable Declaration: Rules to declare a variable**
+
+ * The first letter of a variable should be alphabet or underscore (_)
+ * The first letter of a variable should not be digit
+ * Names are case sensitive (`myVar` and `myvar` are different variables)
+ * After first character it may be a combination of alphabets and digits
+ * Blank sapces are not allowed in varaibles name
+ * Variable name should not be a keyword
  
  
+4. **To declare more than one variable of the same type, use a comma-separated list:**
+ 
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+  int x = 5, y = 6, z = 50;  
+  cout << x + y + z;
+  return 0;
+}
+
+```
+ 
+ 5. 
  
  
  
