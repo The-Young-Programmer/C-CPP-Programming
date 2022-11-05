@@ -53,43 +53,67 @@
  
   - [Variables](#variables) 
  
-  - [User Input](#user-input)
+  - [Data Types](#data-types)
+ 
+  - [Operators](#operators)
+ 
+  - [IF Statement](#if-statement) 
+ 
+  - [Switch](#switch)
+ 
+  - [Loop Type](#loop-type)
+ 
+  - [Pointer](#pointer)
+ 
+  - [Arrays](#arrays)
+ 
+  - [Functons](#functions)
+ 
+  - [Structure](#structure)
+ 
+  - [File Handling](#file-handling)
+ 
+</details>
+
+<details><summary>C++ Advance</summary>
+   - Still working on this
+ </details>
+
+<details><summary>C Basics</summary>
+ 
+ - [Syntax](#syntax)
+ 
+  - [Comments](#comments)
+ 
+  - [Variables](#variables) 
  
   - [Data Types](#data-types)
  
   - [Operators](#operators)
  
-  - [Loop Types](#loop-types) 
+  - [IF Statement](#if-statement) 
  
-  
+  - [Switch](#switch)
  
+  - [Loop Type](#loop-type)
  
-</details>
-
-
-
-<details><summary>C Basics</summary>
+  - [Pointer](#pointer)
  
-  - [Syntax](#syn)
+  - [Arrays](#arrays)
  
-  - [Comments](#com)
+  - [Functons](#functions)
  
-  - [Variables](#va) 
+  - [Structure](#structure)
  
-  - [User Input](#use)
- 
-  - [Data Types](#d)
- 
-  - [Operators](#ope)
- 
-  - [Loop Types](#lo) 
- 
-  
- 
+  - [File Handling](#file-handling)
  
 </details>
 
-
+<details><summary>C Advance</summary>
+   - Still working on this
+ </details>
+ 
+ 
 <details><summary>Simple C/C++ Projects</summary>
  
   - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
@@ -105,9 +129,9 @@
 </details>
 
 
-   - [How To Contribute](#-how-to-contribute-)
+   - [How To Contribute](#-how-to-contribute)
    - Contributors
-   - Info
+   - [Info](#info)
 
 
 
@@ -256,10 +280,10 @@ int main() {
  
  
   <hr><br><br>
+  <a id="syntax"></a>
  <h2 align="center">C++ Basic <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"></h2>
  
- <a id="syntax"></a>
-## C++ Syntax
+### C++ Syntax
  
 1. Let's break up the following code to understand it better:
  
@@ -310,8 +334,8 @@ int main() {
 |         \"                 |         Inserts a double quote character      | 
 
  
- <hr><br><br>
   <a id="comment"></a>
+ <hr><br><br>
  
  ## Comment in C++
  
@@ -334,8 +358,8 @@ to the screen, and it is amazing */
 cout << "Hello World!";
  ```
  
- <hr><br><br>
   <a id="variables"></a>
+ <hr><br><br>
  
 ## Variables in C++
  
@@ -410,7 +434,167 @@ int main() {
 
 ```
  
- 5. 
+ 5. **Constants in C++:**
+ 
+* When you do not want others (or yourself) to override existing variable values, use the `const` keyword (this will declare the variable as **"constant"**, which means unchangeable and read-only)
+* You should always declare the variable as constant when you have values that are unlikely to change
+ 
+ ```
+ const int minutesPerHour = 60;
+const float PI = 3.14;
+ ```
+ 
+  <a id="data-types"></a>
+ <hr><br><br>
+ 
+ ## Data Types
+ 
+ * As explained in the <a id="variables">Variables</a> chapter, a variable in C++ must be a specified data type
+ * The data type specifies the size and type of information the variable will store
+ 
+ ```
+ #include <iostream>
+#include <string>
+using namespace std;
+ 
+int main () {
+  // Creating variables
+  int myNum = 5;               // Integer (whole number)
+  float myFloatNum = 5.99;     // Floating point number
+  double myDoubleNum = 9.98;   // Floating point number
+  char myLetter = 'D';         // Character
+  bool myBoolean = true;       // Boolean
+  string myString = "Hello";   // String
+   
+  // Print variable values
+  cout << "int: " << myNum << "\n";
+  cout << "float: " << myFloatNum << "\n";
+  cout << "double: " << myDoubleNum << "\n";
+  cout << "char: " << myLetter << "\n";
+  cout << "bool: " << myBoolean << "\n";
+  cout << "string: " << myString << "\n";
+ 
+  return 0;
+}
+
+ ```
+ 
+ 
+#### Basic Data Types in C++
+ 
+| Data Type        |   Size        |             Description                                                                                        |
+| ---------------- | :------------:|:-------------------------------------------------------------------------------------------------------------: |
+| `boolean`        |     1 byte    |                         Stores true or false values                                                            |
+| `char`           | 1 byte        |                         Stores a single character/number                                                       |
+|  `int`           | 2 or 4 bytes  |                   Stores whole numbers, without decimals                                                       |
+| `float`          | 4 bytes       |  Stores fractional numbers, containing one or more decimals. Sufficient for storing 7 decimal digits           |
+| `double`         | 8 bytes       |       Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits     | 
+ 
+ 
+ <a id="operators"></a>
+ <hr><br><br>
+ 
+ ## Operators in C++
+ 
+ * **Operator:** Its a special symbol use to perform logical or mathematical operation on data or variables.
+ * **Operand:** Its a data type or variable on which the operation is to be performed.
+ * **Types of Operator:**
+   - [Arithmetic Operators](#operators1)
+   - [Relational Operators](#operators2)
+   - [Logiacl Operators](#opeartors3)
+   - [Assignment Operators](#operators4)
+   - [Bitwise Operators](#operators5)
+   - [Increment/Decrement Operators](#operators6)
+   - [Conditinal Operators](#operators7)
+   - [Special Operators](#operators8)
+ 
+ #### <a id="operators1">Arithmetic Operators</a>
+ 
+ | Symbol        |   Operations       |  Example        |
+| -------------- | :-----------------:|:--------------: |
+|      +         |      Addition      |    x+y          |
+|       -        |     Subtraction    |     x-y         |
+|      *         |   Multiplication   |       x*y       |
+|       /        |      Division      |     x/y         |
+|        %       |      Modulus       |      x%y        | 
+ 
+ ```
+ #include <iostream>
+using namespace std;
+int main() {
+  int x = 5,y = 3;
+  cout<<(x+y)<<"\n";
+  cout<<(x-y)<<"\n";
+  cout<<(x*y)<<"\n";
+  cout<<(x/y)<<"\n";
+  cout<<(x%y)<<"\n";//%(modulus) holds remainder
+  return 0;
+}
+ 
+ ```
+ 
+ #### <a id="operators2">Relational Operators</a> 
+ 
+ 
+ | Symbol        |   Operations       |  Example        |
+| -------------- | :-----------------:|:--------------: |
+|      ==        |      Equal to      | 2==3 returns 0  |
+|      !=        |     Not equal to   | 2!=3 returns 1  |
+|      >         |   Greater than     | 2>3 returns 0   |
+|       <        |      Less than     |  2<3 returns 1  |
+|       >=       |  Greater than or equal to | 2>=3 returns 0 | 
+|       <=       |  Less than or equal to    | 2<=3 returns 1 |
+ 
+ 
+ #### <a id="operators3">Logiacl Operators</a>
+ 
+  | Symbol        |   Operations       |  Example        |
+| --------------- | :-----------------:|:---------------:|
+|     `&&`        |      Logical AND   |  if(x>y&&x>z)   |
+|      `II`       |      Logical OR    |    if(x>y||x>z) |
+|      `!`        |      Logical NOT   |    if(!(x>y))   |
+ 
+  
+|                 |                                                                                                                                  |
+| --------------- |:-------------------------------------------------------------------------------------------------------------------------------: |
+| (x>y)&&(x>z)    |                  Here this espression returns `true` if both conditions are `true`                                               |
+| (x>y)II(x>z)    |                         Here this esppression returns `true` if any one or both conditions are `true`                            |
+|  !(x>y)         |  Not operator reversse the state, means if the condition is `true` it reurns `false` and if the condition is `false` it returns `true`|
+
+ ```
+ #include <iostream>
+using namespace std;
+int main() {
+  int x=10,y50,z=30;
+  if(x>y&&x>z)
+  cout<<" x is greatest";
+  if(y>x&&y>z)
+  cout<<" y is greatest";
+  if(z>x&&z>y)
+  cout<<" z is greatest";
+ }
+ ```
+ 
+ #### <a id="operators4">Assignment Operators</a>
+ 
+ 
+ 
+ 
+ #### <a id="operators5">Bitwise Operators</a>
+ 
+ #### <a id="operators6">Increment/Decrement Operators</a>
+ 
+ 
+ #### <a id="operators7">Conditinal Operators</a>
+ 
+ #### <a id="operators8">Special Operators</a>
+ 
+ 
+ 
+ <a id="if-statement"></a>
+ <hr><br><br>
+ 
+ ## IF Statement 
  
  
  
@@ -423,16 +607,10 @@ int main() {
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  <a id="info"></a>
  <hr><br><br><br>
+ 
+ ## Info
  
  <p align="center">Join our <a href="https://github.com/TYP-Coding-Class/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
