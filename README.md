@@ -1,7 +1,7 @@
 <h1 align="center">
  
-[![cpp-logo](https://user-images.githubusercontent.com/79866006/201129118-cb460a67-42ed-433b-9ed4-ac112432f94c.png)](https://c-cpp-programming.netlify.app/)
-[![c-logo](https://user-images.githubusercontent.com/79866006/201129223-79ce05ab-f51e-4982-b141-1a4ba3aaa1a2.png)](https://c-cpp-programming.netlify.app/)
+ [![cpplogo](https://user-images.githubusercontent.com/79866006/201166543-0b1e6f30-ccd3-4273-b34c-5f3e553d04d3.png)](https://c-cpp-programming.netlify.app/)
+ [![clogo](https://user-images.githubusercontent.com/79866006/201166594-6ee56de7-caea-4a5a-9289-71c109791ef2.png)](https://c-cpp-programming.netlify.app/)
 
  Introduction to C/C++ Programming for Beginners
 </h1>
@@ -29,7 +29,7 @@
 
  ## Contents : 
  
-Visit ![here](https://c-cpp-programming.netlify.app/) for full course
+Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
 
 `> Click the drop-down to view the outline`
 
@@ -76,7 +76,7 @@ Visit ![here](https://c-cpp-programming.netlify.app/) for full course
 </details>
 
 <details><summary>C++ Advance</summary>
-  Visit ![here](https://c-cpp-programming.netlify.app/) for full course
+  Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
 </details>
 
 <details><summary>C Basics</summary>
@@ -110,7 +110,7 @@ Visit ![here](https://c-cpp-programming.netlify.app/) for full course
 </details>
 
 <details><summary>C Advance</summary>
-  Visit ![here](https://c-cpp-programming.netlify.app/) for full course
+  Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
 </details>
  
  
