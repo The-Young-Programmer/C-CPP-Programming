@@ -1,9 +1,8 @@
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0pGXQAzUCoXwY0_LlQ4z-fyMt0IbYAqZgAXIv3hvSltWh8vRL-Uv79k&s=10">
-</p>
-
-<hr>
 <h1 align="center">
+ 
+[![cpp-logo](https://user-images.githubusercontent.com/79866006/201129118-cb460a67-42ed-433b-9ed4-ac112432f94c.png)](https://c-cpp-programming.netlify.app/)
+[![c-logo](https://user-images.githubusercontent.com/79866006/201129223-79ce05ab-f51e-4982-b141-1a4ba3aaa1a2.png)](https://c-cpp-programming.netlify.app/)
+
  Introduction to C/C++ Programming for Beginners
 </h1>
 
@@ -28,8 +27,9 @@
  <a href="#"><img src="https://img.shields.io/badge/Tutorials-Point-blue?style=flat&logo=tutorials-point&logoColor=blue"></a>
 
 
-## Contents
-
+ ## Contents : 
+ 
+Visit ![here](https://c-cpp-programming.netlify.app/) for full course
 
 `> Click the drop-down to view the outline`
 
@@ -76,8 +76,8 @@
 </details>
 
 <details><summary>C++ Advance</summary>
-   - Still working on this
- </details>
+  Visit ![here](https://c-cpp-programming.netlify.app/) for full course
+</details>
 
 <details><summary>C Basics</summary>
  
@@ -110,8 +110,8 @@
 </details>
 
 <details><summary>C Advance</summary>
-   - Still working on this
- </details>
+  Visit ![here](https://c-cpp-programming.netlify.app/) for full course
+</details>
  
  
 <details><summary>Simple C/C++ Projects</summary>
@@ -130,7 +130,7 @@
 
 
    - [How To Contribute](#-how-to-contribute)
-   - Contributors
+   - [Contributors](#contributors)
    - [Info](#info)
 
 
@@ -278,11 +278,13 @@ int main() {
 * Visit Appstore and download <a href="https://apps.apple.com/us/app/c-c-program-compiler/id1160868782">C/C++ Program Compiler</a>
  </p>
  
- 
+ <!--
   <hr><br><br>
   <a id="syntax"></a>
  <h2 align="center">C++ Basic <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"></h2>
  
+ 
+
 ### C++ Syntax
  
 1. Let's break up the following code to understand it better:
@@ -595,20 +597,31 @@ int main() {
  <hr><br><br>
  
  ## IF Statement 
+ -->
+ 
+ 
+  <a id="how-to-countribute"></a>
+  <hr><br>
+ 
+ ## How to Countribute:
+ 
+ - Just fork the project and clone it into your machine
+ - Then make your countribution and upload it to your fork repository
+ - Then click on pull request
  
  
  
+  <a id="countributors"></a>
+ <br>
  
+ ## Countributors
  
- 
- 
- 
- 
- 
+ - ![The Young Programmer](https://github.com/The-Young-Programmer/)
+ - ![ Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
  
  
   <a id="info"></a>
- <hr><br><br><br>
+ <br>
  
  ## Info
  
