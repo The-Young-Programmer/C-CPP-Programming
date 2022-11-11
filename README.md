@@ -129,7 +129,7 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 </details>
 
 
-   - [How To Contribute](#-how-to-contribute)
+   - [How To Contribute](#how-to-contribute)
    - [Contributors](#contributors)
    - [Info](#info)
 
@@ -616,8 +616,8 @@ int main() {
  
  ## Countributors
  
- - ![The Young Programmer](https://github.com/The-Young-Programmer/)
- - ![ Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
+ - <a href="https://github.com/The-Young-Programmer/" target="_blank"> The Young Programmer </a>
+ - <a href="https://github.com/Samuel-de-Oliveira" target="_blank"> Samuel de Oliveira </a>
  
  
   <a id="info"></a>
