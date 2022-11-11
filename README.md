@@ -600,7 +600,7 @@ int main() {
  -->
  
  
-  <a id="how-to-countribute"></a>
+  <a id="how-to-contribute"></a>
   <hr><br>
  
  ## How to Countribute:
@@ -611,7 +611,7 @@ int main() {
  
  
  
-  <a id="countributors"></a>
+  <a id="contributors"></a>
  <br>
  
  ## Countributors
