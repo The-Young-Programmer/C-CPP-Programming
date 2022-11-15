@@ -619,7 +619,8 @@ int main() {
  - <a href="https://github.com/The-Young-Programmer/" target="_blank"> The Young Programmer </a>
  - <a href="https://github.com/Samuel-de-Oliveira" target="_blank"> Samuel de Oliveira </a>
  - <a href="https://github.com/Gabriel160204" target="_blank"> Gabriel160204</a>
- 
+ - <a href="https://github.com/tigertv" target="_blank">Max Vetrov</a> 
+
   <a id="info"></a>
  <br>
  
