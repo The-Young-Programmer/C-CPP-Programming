@@ -263,9 +263,9 @@ int main() {
  ## C++/C Compiler on different OS
  
  
- <p><b>For Windodws, Linux and MacOS</b><br>
+ <p><b>For Windows, Linux and MacOS</b><br>
 
-* Install `code::blocks` by going to there oficial website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
+* Install `code::blocks` by going to there official website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
  </p>
  <p>
   <b>For Andriod OS</b><br>
@@ -603,10 +603,10 @@ int main() {
   <a id="how-to-contribute"></a>
   <hr><br>
  
- ## How to Countribute:
+ ## How to Contribute:
  
  - Just fork the project and clone it into your machine
- - Then make your countribution and upload it to your fork repository
+ - Then make your contribution and upload it to your fork repository
  - Then click on pull request
  
  
