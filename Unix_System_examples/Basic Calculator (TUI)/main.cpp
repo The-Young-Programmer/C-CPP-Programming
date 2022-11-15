@@ -5,6 +5,11 @@
 // Parse Float
 float parseFloat( const std::string &str ) {
 
+	/* All the argv arguments is a string
+	 * Because of this is need use a parse
+	 * float function.
+	 */
+
         std::stringstream ss(str);
         float num;
         ss >> num;
