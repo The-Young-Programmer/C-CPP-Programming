@@ -2,6 +2,7 @@
 	project status : 1
  	Date : Oct 11, 2022
 	Author : Easter Maxwell
+	co-factor : The Young Programmer Nemonet (Nov 16, 2022)
 */
 
 /*'Error --1' is just a random error message*/
@@ -190,6 +191,11 @@ int main()
 	cout << "\t\t\t\t\t    ";
 	cout << "--- TEMPERATURE CALCULATOR ---";
 	cout << "\n\n";
+	cout<<"\n\t\tDeveloped By:";
+    	cout<<" Easter Maxwell (Oct 11, 2022)";
+    	cout<<"\n\t\t In Collaboration with:";
+    	cout<<" Nemonet (TYP) (Nov 16, 2022)";
+    	cout<<"\n\n\n\n";
 
 	cout << "\t\t\t\t\t"
 	     << "+------------------------------------+"
