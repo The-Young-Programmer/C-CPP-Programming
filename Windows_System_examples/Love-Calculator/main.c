@@ -2,7 +2,8 @@
 #include <stdlib.h> 
 
 
-void enter_string(char* message, char* s, size_t s_size) {
+void enter_string(char* message, char* s, size_t s_size) 
+{
   printf("%s", message);
   fgets(s, s_size, stdin);   
 }
@@ -23,13 +24,12 @@ int get_score(char* s)
   char c;
   for(char* p = s; p != end; ++p)
   {
-    c = *p ^ 0x20;
+    c = *p;
+    if(c == ' ') continue;
 
-    if(c == ' ')
-    {
-      continue;
-    }
-    else if(c >= 'A' && c <= 'Z')
+    c &= ~0x20;
+
+    if(c >= 'A' && c <= 'Z')
     {
       score += c - '@';
     }  
