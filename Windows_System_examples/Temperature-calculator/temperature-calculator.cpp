@@ -25,32 +25,32 @@ void standard_output()
 	int lower_value;
 	int upper_value;
 
-	cout << "\n";
+	cout << '\n';
 	cout << "[+]Enter Order value : ";
 	cin  >> order;
 
-	cout << "\n";
+	cout << '\n';
 	cout << "[+]Enter Lower Value : ";
 	cin  >> lower_value;
 
-	cout << "\n";
+	cout << '\n';
 	cout << "[+]Enter Upper Value : ";
 	cin  >> upper_value;
 
 	/*enables 'fahr' to start printing from the lowest value*/
 	fahr = lower_value;
 
-	cout << "\n";
+	cout << '\n';
 	cout << "\t\t\t\t\t         ";
-	cout << "--- Temperature ---" << endl;
+	cout << "--- Temperature ---" << '\n';
 
-	cout << "\n";
+	cout << '\n';
 	cout << "\t\t\t\t\t    "
 	     << "+----------------------------+"
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t\t\t    "
 	     << "| Fahrenheit       Celsius   |"
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t\t\t    "
 	     << "+--------------|-------------+";
 
@@ -59,12 +59,12 @@ void standard_output()
 		/*Formula (Fahrenheit to Celsius)*/
 		celsius = 5 * (fahr - 32) / 9;
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    ";
 
 		cout << "|     " << fahr << "\t\t " << celsius << "     |";
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    ";
 		cout << "+--------------|-------------+";
 
@@ -83,26 +83,26 @@ void user_specific_output()
 	float celsius_value;
 
 	cout << "\t\t\t\t\t       "
-		 << "--- Available Options ---" << endl;
+		 << "--- Available Options ---" << '\n';
 
 	cout << "\t\t\t     "
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t     "
 	     << "+-----------------------------------------------------------+"
 	     << "\t\t\t     "
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t     "
 	     << "| Press F to convert temperature from Fahrenheit to celsius |"
 	     << "\t\t\t     "
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t     "
 	     << "| --------------------------------------------------------- |"
 	     << "\t\t\t     "
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t     "
 	     << "| Press C to convert temperature from Celsius to Fahrenheit |"
 	     << "\t\t\t     "
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t     "
 	     << "+-----------------------------------------------------------+";
 
@@ -112,32 +112,32 @@ void user_specific_output()
 
 	if (option == "C" || option == "c")
 	{
-		cout << "\n";
+		cout << '\n';
 		cout << "[+]Enter Temperature in Celsius : ";
 		cin  >> celsius_input;
 
 		/*Formula (Celsius to Fahrenheit)*/
 		fahr_value = (9.0 / 5.0) * celsius_input + 32;
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t            ";
-		cout << "--- Result ---" << endl;
+		cout << "--- Result ---" << '\n';
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    "
 		     << "+----------------------------+"
-		     << "\n"
+		     << '\n'
 		     << "\t\t\t\t\t    "
 		     << "|   Celsius       Fahrenheit |"
-		     << "\n"
+		     << '\n'
 		     << "\t\t\t\t\t    "
 		     << "+--------------|-------------+";
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    ";
 		cout << "|     " << celsius_input << "\t   |      " << setprecision(3) << fahr_value << "\t |";
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    ";
 		cout << "+----------------------------+";
 
@@ -145,32 +145,32 @@ void user_specific_output()
 
 	else if (option == "F" || option == "f")
 	{
-		cout << "\n";
+		cout << '\n';
 		cout << "[+]Enter Temperature in Fahrenheit : ";
 		cin  >> fahr_input;
 
 		/*Formula (Fahrenheit to Celsius)*/
 		celsius_value = 5 * (fahr_input - 32) / 9;
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t            ";
-		cout << "--- Result ---" << endl;
+		cout << "--- Result ---" << '\n';
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    "
 		     << "+----------------------------+"
-		     << "\n"
+		     << '\n'
 		     << "\t\t\t\t\t    "
 		     << "|  Fahrenheit       Celsius  |"
-		     << "\n"
+		     << '\n'
 		     << "\t\t\t\t\t    "
 		     << "+--------------|-------------+";
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    ";
 		cout << "|     " << fahr_input << "\t   |    " << setprecision(3) << celsius_value << "\t |";
 
-		cout << "\n";
+		cout << '\n';
 		cout << "\t\t\t\t\t    ";
 		cout << "+----------------------------+";
 	}
@@ -178,8 +178,8 @@ void user_specific_output()
 	else
 	{
 		Sleep(500);
-		cout << "\n[:]#Msg : Error --1" << endl;
-		cout << "[:}Fault : Invalid option Input!" << endl;
+		cout << "\n[:]#Msg : Error --1" << '\n';
+		cout << "[:}Fault : Invalid option Input!" << '\n';
 	}
 
 }
@@ -200,19 +200,19 @@ int main()
 	cout << "\t\t\t\t\t"
 	     << "+------------------------------------+"
 	     << "\t\t\t\t\t"
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t\t\t"
 	     << "| Press 0 to display standard  input |"
 	     << "\t\t\t\t\t"
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t\t\t"
 	     << "| ---------------------------------- |"
 	     << "\t\t\t\t\t"
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t\t\t"
 	     << "| Press X to display specific output |"
 	     << "\t\t\t\t\t"
-	     << "\n"
+	     << '\n'
 	     << "\t\t\t\t\t"
 	     << "+------------------------------------+"
 	     << "\n\n";
@@ -239,11 +239,11 @@ int main()
 	else
 	{
 		Sleep(500);
-		cout << "\n[:]#Msg : Error --1" << endl;
-		cout << "[:}Fault : Invalid option Input!" << endl;
+		cout << "\n[:]#Msg : Error --1" << '\n';
+		cout << "[:}Fault : Invalid option Input!" << '\n';
 	}
 
-	return -1;
+	return 0;
 
 }
 
