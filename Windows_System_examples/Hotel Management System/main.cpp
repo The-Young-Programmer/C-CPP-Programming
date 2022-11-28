@@ -118,7 +118,7 @@ cout<<"\n Total no. of Rooms - 50";
 cout<<"\n Ordinary Rooms from 1 - 30";
 cout<<"\n Luxury Rooms from 31 - 45";
 cout<<"\n Royal Rooms from 46 - 50";
-cout <<"\n Enter The Room no. you want to stay in :- "<<endl;
+cout <<"\n Enter The Room no. you want to stay in :- "<<'\n';
 cin>>r;
 
 flag=check(r);
@@ -167,7 +167,7 @@ void hotel::display()
 ifstream fin("Record.dat",ios::in);
 int r,flag;
 
-cout<<"\n Enter room No. for a particular customer`s details :- "<<endl;
+cout<<"\n Enter room No. for a particular customer`s details :- "<<'\n';
 cin>>r;
 
 while(!fin.eof())
