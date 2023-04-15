@@ -1,7 +1,7 @@
 <h1 align="center">
  
  
- [![cpplogo](https://user-images.githubusercontent.com/79866006/201166543-0b1e6f30-ccd3-4273-b34c-5f3e553d04d3.png)](https://c-cpp-programming.netlify.app/)
+ [![cpplogo](https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png)](https://c-cpp-programming.netlify.app/)
  [![clogo](https://user-images.githubusercontent.com/79866006/201166594-6ee56de7-caea-4a5a-9289-71c109791ef2.png)](https://c-cpp-programming.netlify.app/)
 
   C/C++ Programming for Beginners <br> <i>Basic to Advance</i> 
@@ -157,7 +157,7 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 <br><br><br><br>
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
  
-## Introduction to C++ [🔝](#contents)
+## Introduction to C++ [🔝](#contents-:)
 
 <p><b>What is C++ Programming Language ?</b>
 
@@ -230,7 +230,7 @@ int main() {
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
 
-## Introduction to C [🔝](#contents)
+## Introduction to C [🔝](#contents-:)
 
 <p><b>What is C Programming Language ?</b>
 
@@ -278,7 +278,7 @@ int main() {
  <a id="compiler"></a>
  <hr><br><br>
  
- ## C++/C Compiler on different OS [🔝](#contents)
+ ## C++/C Compiler on different OS [🔝](#contents-:)
  
  
  <p><b>For Windows, Linux and MacOS</b><br>
@@ -621,7 +621,7 @@ int main() {
   <a id="how-to-contribute"></a>
   <hr><br>
  
- ## How to Contribute: [🔝](#contents)
+ ## How to Contribute: [🔝](#contents-:)
  
  - Just fork the project and clone it into your machine
  - Then make your contribution and upload it to your fork repository
@@ -640,7 +640,7 @@ int main() {
   <a id="contributors"></a>
  <br>
  
- ## Countributors [🔝](#contents)
+ ## Countributors [🔝](#contents-:)
  
  - <a href="https://github.com/The-Young-Programmer/" target="_blank"> The Young Programmer </a>
  - <a href="https://github.com/Samuel-de-Oliveira" target="_blank"> Samuel de Oliveira </a>
@@ -651,7 +651,7 @@ int main() {
 
  <br>
  
- ## Info [🔝](#contents)
+ ## Info [🔝](#contents-:)
  
  <p align="center">Join our <a href="https://github.com/TYP-Coding-Class/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
