@@ -1,5 +1,6 @@
 <h1 align="center">
  
+ 
  [![cpplogo](https://user-images.githubusercontent.com/79866006/201166543-0b1e6f30-ccd3-4273-b34c-5f3e553d04d3.png)](https://c-cpp-programming.netlify.app/)
  [![clogo](https://user-images.githubusercontent.com/79866006/201166594-6ee56de7-caea-4a5a-9289-71c109791ef2.png)](https://c-cpp-programming.netlify.app/)
 
@@ -16,6 +17,9 @@
 <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/issues">
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </a>
+<a href="#"><img src="https://badge.fury.io/gh/tterb%2FHyde.svg"</a>
+<!--[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()-->  
+
 </p>
 
 <p align="center">
@@ -24,7 +28,7 @@
  <a href="#"><img src="https://img.shields.io/badge/Tutorials-Point-blue?style=flat&logo=tutorials-point&logoColor=blue"></a>
 
 
- ## Contents : 
+ # Contents : 
  
 Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
 
@@ -153,7 +157,7 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 <br><br><br><br>
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
  
-## Introduction to C++
+## Introduction to C++ [🔝](#contents)
 
 <p><b>What is C++ Programming Language ?</b>
 
@@ -226,7 +230,7 @@ int main() {
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
 
-## Introduction to C
+## Introduction to C [🔝](#contents)
 
 <p><b>What is C Programming Language ?</b>
 
@@ -264,7 +268,7 @@ int main() {
 <a id="differences"></a>
  <hr><br><br>
  
-## Differences between <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> and <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
+## Differences between <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> and <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> [🔝](#contents)
 
 * C++ was developed as an extension of C, and both languages have almost the same syntax.
 
@@ -274,7 +278,7 @@ int main() {
  <a id="compiler"></a>
  <hr><br><br>
  
- ## C++/C Compiler on different OS
+ ## C++/C Compiler on different OS [🔝](#contents)
  
  
  <p><b>For Windows, Linux and MacOS</b><br>
@@ -617,18 +621,26 @@ int main() {
   <a id="how-to-contribute"></a>
   <hr><br>
  
- ## How to Contribute:
+ ## How to Contribute: [🔝](#contents)
  
  - Just fork the project and clone it into your machine
  - Then make your contribution and upload it to your fork repository
  - Then click on pull request
+
+<br>
+
+ ### Donates to Support 
+ <a href="#"><img src="https://img.shields.io/badge/$-support-12a0df.svg?style=flat"></a>
+ <a href="#"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg"></a>
+
+
  
  
  
   <a id="contributors"></a>
  <br>
  
- ## Countributors
+ ## Countributors [🔝](#contents)
  
  - <a href="https://github.com/The-Young-Programmer/" target="_blank"> The Young Programmer </a>
  - <a href="https://github.com/Samuel-de-Oliveira" target="_blank"> Samuel de Oliveira </a>
@@ -636,9 +648,10 @@ int main() {
  - <a href="https://github.com/tigertv" target="_blank">Max Vetrov</a> 
 
   <a id="info"></a>
+
  <br>
  
- ## Info
+ ## Info [🔝](#contents)
  
  <p align="center">Join our <a href="https://github.com/TYP-Coding-Class/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
