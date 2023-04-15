@@ -3,13 +3,13 @@
  [![cpplogo](https://user-images.githubusercontent.com/79866006/201166543-0b1e6f30-ccd3-4273-b34c-5f3e553d04d3.png)](https://c-cpp-programming.netlify.app/)
  [![clogo](https://user-images.githubusercontent.com/79866006/201166594-6ee56de7-caea-4a5a-9289-71c109791ef2.png)](https://c-cpp-programming.netlify.app/)
 
- Introduction to C/C++ Programming for Beginners
+  C/C++ Programming for Beginners <br> <i>Basic to Advance</i> 
 </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"><br><br>
-<img src="https://img.shields.io/github/license/The-Young-Programmer/C-CPP-Programming-Project?logo=gnu">
+<img src="https://img.shields.io/github/license/The-Young-Programmer/C-CPP-Programming-Project?logo=mit">
 <img src="https://img.shields.io/github/stars/The-Young-Programmer/C-CPP-Programming-Project?logo=github">
 <img src="https://img.shields.io/github/issues/The-Young-Programmer/C-CPP-Programming-Project?logo=github">
 <img src="https://komarev.com/ghpvc/?username=C-CPP-Programming-Project&label=Visitors&color=0e75b6&style=flat"/> 
@@ -80,29 +80,29 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
  
  - [Syntax](#syntax)
  
-  - [Comments](#comments)
+ - [Comments](#comments)
  
-  - [Variables](#variables) 
+ - [Variables](#variables) 
  
-  - [Data Types](#data-types)
+ - [Data Types](#data-types)
  
-  - [Operators](#operators)
+ - [Operators](#operators)
  
-  - [IF Statement](#if-statement) 
+ - [IF Statement](#if-statement) 
  
-  - [Switch](#switch)
+ - [Switch](#switch)
  
-  - [Loop Type](#loop-type)
+ - [Loop Type](#loop-type)
  
-  - [Pointer](#pointer)
+ - [Pointer](#pointer)
  
-  - [Arrays](#arrays)
+ - [Arrays](#arrays)
  
-  - [Functons](#functions)
+ - [Functons](#functions)
  
-  - [Structure](#structure)
+ - [Structure](#structure)
  
-  - [File Handling](#file-handling)
+ - [File Handling](#file-handling)
  
 </details>
 
@@ -111,24 +111,41 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 </details>
  
  
-<details><summary>Simple C/C++ Projects</summary>
+<details><summary>Projects</summary>
+
+   - <details><summary>C++ Projects</summary>
  
-  - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
+     - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
  
-  - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI))
+     - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI))
  
-  - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System) 
+     - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System) 
  
-  - [Sci. Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI))
+     - [Sci. Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI))
  
-  - [Tic-Tac-Toe game](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game)
+     - [Tic-Tac-Toe game](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game)
  
+     </details>
+
+   - <details><summary>C Projects</summary>
+
+     - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
+ 
+     - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI))
+ 
+     - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System) 
+ 
+     - [Sci. Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI))
+ 
+     - [Tic-Tac-Toe game](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game)
+
+     </details>
 </details>
 
 
-   - [How To Contribute](#how-to-contribute)
-   - [Contributors](#contributors)
-   - [Info](#info)
+  - [How To Contribute](#how-to-contribute)
+  - [Contributors](#contributors)
+  - [Info](#info)
 
 
 
@@ -627,23 +644,12 @@ int main() {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><strong>Connect With Us</strong></p>
-<p align="center"> 
-<!--<a href="#"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>-->
-&nbsp;
-<!--<a href="#"><img alt="discord_logo" 
-src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>-->
-&nbsp;
-<a href="https://twitter.com/TNemonet"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-&nbsp;
-<a href="https://github.com/The-Young-Programmer"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/typ-nemonet"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-&nbsp;
-<!--<a href="#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>-->
-&nbsp;
-<a href="https://www.instagram.com/invites/contact/?i=tpssan2t0kkn&utm_content=3zo4x47""><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+<p align="center">
+ <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/instagram-512.png" width="35"/></a>
+ <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/linkedin-512.png" width="35" /></a>
+ <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/twitter-512.png" width="35" /></a>
+ <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
 </p>
- 
  
  
  
