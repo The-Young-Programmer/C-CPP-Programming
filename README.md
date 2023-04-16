@@ -1,11 +1,9 @@
 <h1 align="center">
  
+
  
- ![ei_1681635868892-removebg-preview](https://user-images.githubusercontent.com/79866006/232288721-3902a3cf-8fa8-425a-a835-40ff37f70a7d.png)
-no
- 
- <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png" width="180" height="150"></a>
- <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/201166594-6ee56de7-caea-4a5a-9289-71c109791ef2.png" width="180" height="150"></a>
+ <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png" width="" height=""></a>
+ <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232288721-3902a3cf-8fa8-425a-a835-40ff37f70a7d.png" width="" height=""></a>
 
 
   C/C++ Programming for Beginners <br> <i>Basic to Advance</i> 
