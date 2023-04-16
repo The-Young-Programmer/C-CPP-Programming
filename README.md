@@ -2,8 +2,8 @@
  
 
  
- <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png" width="" height=""></a>
- <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232288721-3902a3cf-8fa8-425a-a835-40ff37f70a7d.png" width="" height=""></a>
+ <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png" width="270" height="230"></a>
+ <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232288721-3902a3cf-8fa8-425a-a835-40ff37f70a7d.png" width="270" height="230"></a>
 
 
   C/C++ Programming for Beginners <br> <i>Basic to Advance</i> 
