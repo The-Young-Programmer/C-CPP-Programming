@@ -1,8 +1,8 @@
 <h1 align="center">
  
- 
- [![cpplogo](https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png)](https://c-cpp-programming.netlify.app/)
- [![clogo](https://user-images.githubusercontent.com/79866006/201166594-6ee56de7-caea-4a5a-9289-71c109791ef2.png)](https://c-cpp-programming.netlify.app/)
+ <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png" width="180" height="150"></a>
+ <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/201166594-6ee56de7-caea-4a5a-9289-71c109791ef2.png" width="180" height="150"></a>
+
 
   C/C++ Programming for Beginners <br> <i>Basic to Advance</i> 
 </h1>
