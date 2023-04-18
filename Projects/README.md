@@ -18,7 +18,7 @@ C/C++ support for Visual Studio Code is provided by a **Microsoft C/C++ extensio
 - Select the Extensions view icon on the Activity bar or use the keyboard shortcut (`Ctrl+Shift+X`). 
 - Search for `C++`. 
 - Select Install.
-- After you install the extension
+- After you install the extension, also search for **Code Runner extension** and install it.
 
 
 ![search-cpp-extension](https://user-images.githubusercontent.com/79866006/232750710-ab0fee4a-5b41-444a-ab63-273b303c2676.png)
