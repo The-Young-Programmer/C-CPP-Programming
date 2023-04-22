@@ -185,14 +185,14 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 An IDE (Integrated Development Environment) is used to edit AND compile the code.
 
 Popular IDE's include:
- `Code::Blocks`, `Eclipse`, and `Visual Studio`.
+ `Code::Blocks`, `Eclipse`, and `Visual Studio Code`.
  These are all free, and they can be used to both edit and debug C++ code.
 
-I will be using `Code::Blocks` in this Project, which I believe is a good place to start.
+I will be using `Visual Studio Code` in this Project, which I believe is a good place to start.
 
-You can find the latest version of Codeblocks at http://www.codeblocks.org/. 
+You can find the latest version of VSCode at https://code.visualstudio.com/. 
 
-Download the `mingw-setup.exe file`, which will install the text editor with a compiler.
+Follow this <a href="https://github.com/The-Young-Programmer/C-CPP-Programming/blob/main/Projects/README.md" target="_blank"> process to install and setup VSCode </a>, which will install the text editor with a compiler.
 </p>
 
 ### Quick Start :
@@ -200,7 +200,7 @@ Download the `mingw-setup.exe file`, which will install the text editor with a c
 <p>
 
 - Let's create our first C++ file.
-- Open **Codeblocks** and go to File > New > Empty File.
+- Open **VSCode** and go to File > New Text File.
 - Write the following C++ code and save the file as **myfirstprogram.cpp** (File > Save File as):
 
 
@@ -217,12 +217,13 @@ int main() {
 ```
 
 
-- In Codeblocks, it should look like this:
+- In VSCode, it should look like this:
 
-<img src="https://www.w3schools.com/cpp/codeblocks2.png">
+![Screenshot 2023-04-22 110959](https://user-images.githubusercontent.com/79866006/233777816-5a669708-3c91-42ad-b50a-4da5e4916cd9.png)
 
 
-- Then, go to Build > Build and Run to run (execute) the program. 
+
+- Then, go to Run > Run to run (execute) the program. 
 - **Congratulations!** You have now written and executed your first C++ program.
 
 </p>
@@ -252,7 +253,7 @@ C and C++ uses the same compiler and IDE
 <p>
 
 - Let's create our first C file.
-- Open **Codeblocks** and go to File > New > Empty File.
+- Open **VSCode** and go to File > New Text File.
 - Write the following C code and save the file as **myfirstprogram.c** (File > Save File as):
 
 ```
@@ -285,7 +286,7 @@ int main() {
  
  <p><b>For Windows, Linux and MacOS</b><br>
 
-* Install `code::blocks` by going to there official website, <a href="www.codeblocks.org/downloads/">Code Blocks</a>
+* Install `VSCode` by going to there official website, <a href="https://code.visualstudio.com/">VSCode</a>
  </p>
  <p>
   <b>For Andriod OS</b><br>
