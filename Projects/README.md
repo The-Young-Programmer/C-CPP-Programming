@@ -47,7 +47,7 @@ Most Linux distributions have the `GNU Compiler Collection (GCC)` installed and 
 
 **If you don't have a compiler installed**, we will describe how to install the Minimalist GNU for Windows (MinGW) C++ tools (compiler and debugger). MinGW is a popular, free toolset for Windows. 
 
-If you are running VS Code on another platform, you can read the <a href="#install-vlang/LLVM-compiler-and-debugger-(For-macOS)"> **C++ tutorials** </a>, which cover C++ configurations for **Linux** and **macOS**.
+If you are running VS Code on another platform, you can read the <a href="#part-for-mac0s"> vlang/LLVM Compiler and Debugger (For-macOS) </a>, which cover C++ configurations for **Linux** and **macOS**.
 
 
 ### Install MinGW-x64 (For Windows)
@@ -55,7 +55,7 @@ If you are running VS Code on another platform, you can read the <a href="#insta
 - Follow the Installation instructions on the <a href="https://www.msys2.org/" target="_blank"> MSYS2 website</a> to install `Mingw-w64`.
 - Make sure to run each required Start menu and `pacman` command.
 - Add the MinGW compiler to your path: <i>follow the video below to do that</i>
-- 
+
 <hr>
 
 ### Video Explanation on how to Run the whole process
@@ -81,16 +81,59 @@ If you don't see the expected output or g++ or gdb is not a recognized command, 
 
 <i>Follow the <a href="#video-explanation-on-how-to-run-the-whole-process">video</a> to know How to Install MinGW (MSYS2) and Run C, C++ program in VS Code for Windows</i>
 
+<br><br><br>
+
+### PART FOR macOS
 
 <hr>
 
-### Install Clang/LLVM compiler and debugger (For macOS)
+## Install Clang/LLVM compiler and debugger (For macOS)
+
+<hr>
+
+In this tutorial, you will learn to configure Visual Studio Code on macOS to use the Clang/LLVM compiler and debugger.
+
+### Prerequisites
+
+To successfully complete this tutorial, you must do the following:
+
+   - Install <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code on macOS.</a>
+
+   - Install the C++ extension for VS Code. You can install the C/C++ extension by searching for `c++` in the Extensions view (`Ctrl+Shift+X`).
+
+![cpp-extension](https://user-images.githubusercontent.com/79866006/233775271-898e189c-a5ea-4053-aeb6-88fc20a19150.png)
+
+### Ensure Clang is installed
+
+- **Clang** may already be installed on your Mac. To verify that it is, open a macOS Terminal window and enter the following command:
+
+ `clang --version`
+
+ - If Clang isn't installed, enter the following command to install the command line developer tools:
+
+`xcode-select --install`
+
+### Video Explanation on how to Run the whole process
+
+https://www.youtube.com/watch?v=f0vVV4NPmjQ
 
 <hr>
 
 
 
 
+## How to Contribute: [🔝](#contents)
+ 
+ - Just fork the project and clone it into your machine
+ - Then make your contribution and upload it to your fork repository
+ - Then click on pull request
 
+<br>
 
+ ### Donates to Support 
+ <a href="#"><img src="https://img.shields.io/badge/$-support-12a0df.svg?style=flat"></a>
+ <a href="#"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg"></a>
 
+**NOTE**
+
+<i>If you face any issues kindly let us know</i>
