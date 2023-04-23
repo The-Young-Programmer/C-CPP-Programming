@@ -44,6 +44,31 @@ And, it is similar for the other positions.
 
 
 
+<h2>
+INFO
+</h2>
+<footer>
+TIC TAC TOE GAME project in C
+
+<br>
+DEVELOPED BY NEMONET (TYP)
+
+<br><hr>
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO PULL AN ISSUE *****  
+
+<hr>
+***** LEAVE A COMMENT IF YOU LOVE MY WORK *****
+
+<hr>
+***** PLS FORK TNIS PROJECT FOR MORE PROJECT  *****
+
+</footer>
+
+
+
+
+
+
 
 
 
