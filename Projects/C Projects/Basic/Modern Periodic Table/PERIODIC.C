@@ -1,3 +1,8 @@
+// Autor : Nemonet TYP
+// Title: Modern Periodic Table Project in C
+// PROJECT FOR C/C++ PROGRAMMING TUTORIAL
+
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
