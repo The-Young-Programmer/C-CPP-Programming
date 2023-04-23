@@ -21,6 +21,15 @@ In the main function, we are using a switch-case to choose between encryption or
 ![enc2](https://user-images.githubusercontent.com/79866006/233812501-ab7c5092-e8f5-41bc-b597-818fdde04120.JPG)
 
 
+### The main() function : 
+
+   - Declaring the str variable of type ‘char’ to be encrypted or decrypted with a limit of 100 characters.
+   - The program will take the string input from the user.
+   - The choice of encrypting or decrypting of the string will be given to you.
+   - A switch-case control statement is used to select from the Encryption or Decryption case. If selected other than 1 or 2 options then the console will display “Invalid Input !!!”.
+ 
+
+
 <h2>
 INFO
 </h2>
