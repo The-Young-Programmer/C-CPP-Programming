@@ -1,3 +1,8 @@
+// Autor : Nemonet TYP
+// Title: A Login and Registration System Programmed in C++
+// PROJECT FOR C/C++ PROGRAMMING TUTORIAL
+
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
