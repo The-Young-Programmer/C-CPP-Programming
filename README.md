@@ -664,9 +664,9 @@ int main() {
  <a href="https://instagram.com/ccppprogramming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/instagram-512.png" width="35"/></a>
  <a href="https://www.facebook.com/cppprogrammin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs//gradient/icons8-facebook-512.png" width="35" /></a>
  <a href="https://twitter.com/CCppProgrmming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/twitter-512.png" width="35" /></a>
- <a href="https://chat.whatsapp.com/CQVyOVUaukw0ejcKWfQ0YO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs//gradient/icons8-whatsapp-512.png" width="35"/></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
+ <a href="https://chat.whatsapp.com/CQVyOVUaukw0ejcKWfQ0YO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/icons8-whatsapp-512.png" width="35"/></a>
+ <a href="https://t.me/+pcrI72da_R85ZmNk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/icon8-telegram-app-512.png" width="35"/></a>
+ <a href="mailto:typ.softwares@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
 </p>
  
  
