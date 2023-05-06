@@ -661,9 +661,11 @@ int main() {
 
 <p align="center"><strong>Connect With Us</strong></p>
 <p align="center">
- <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/instagram-512.png" width="35"/></a>
- <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/linkedin-512.png" width="35" /></a>
- <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/twitter-512.png" width="35" /></a>
+ <a href="https://instagram.com/ccppprogramming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/instagram-512.png" width="35"/></a>
+ <a href="https://www.facebook.com/cppprogrammin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs//gradient/icons8-facebook-512.png" width="35" /></a>
+ <a href="https://twitter.com/CCppProgrmming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/twitter-512.png" width="35" /></a>
+ <a href="https://chat.whatsapp.com/CQVyOVUaukw0ejcKWfQ0YO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs//gradient/icons8-whatsapp-512.png" width="35"/></a>
+ <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
 </p>
  
