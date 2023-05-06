@@ -1,9 +1,9 @@
 <h1 align="center">
  
-
+![ei_1682517725163-removebg-preview]()
+P
  
- <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232226862-57b94f14-a470-492a-a503-128f2cfef8f3.png" width="270" height="230"></a>
- <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/232288721-3902a3cf-8fa8-425a-a835-40ff37f70a7d.png" width="270" height="230"></a>
+ <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/236609770-d36c7858-a686-43f0-be41-250ac679f836.png" width="250" height="250"></a>
 
 
   C/C++ Programming for Beginners <br> <i>Basic to Advance</i> 
@@ -665,7 +665,7 @@ int main() {
  <a href="https://www.facebook.com/cppprogrammin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs//gradient/icons8-facebook-512.png" width="35" /></a>
  <a href="https://twitter.com/CCppProgrmming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/twitter-512.png" width="35" /></a>
  <a href="https://chat.whatsapp.com/CQVyOVUaukw0ejcKWfQ0YO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/icons8-whatsapp-512.png" width="35"/></a>
- <a href="https://t.me/+pcrI72da_R85ZmNk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/icon8-telegram-app-512.png" width="35"/></a>
+ <a href="https://t.me/+pcrI72da_R85ZmNk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/icons8-telegram-app-512.png" width="35"/></a>
  <a href="mailto:typ.softwares@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
 </p>
  
