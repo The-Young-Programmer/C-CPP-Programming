@@ -47,7 +47,7 @@ void login::Login()
         while (choice != "2")
         {
             cout << "\t\t\t_____________________________________________\n\n\n";
-            cout << "\t\t\t         Welcome to the CS 1021 Login!         \n\n";
+            cout << "\t\t\t         Welcome to the NEMO 2023 Login!         \n\n";
             cout << "\t\t\t_______ Currently Logged In: " << username << " ________\n\n";
             cout << "\t\t\t_________           Menu           __________\n\n";
             cout << "\t | Press 1 to PLAY GAME                              |" << endl;
