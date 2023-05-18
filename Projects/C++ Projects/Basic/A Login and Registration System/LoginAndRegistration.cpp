@@ -19,7 +19,7 @@ int main()
     login userLogin;
     string userChoice;
     cout << "\t\t\t_____________________________________________\n\n\n";
-    cout << "\t\t\t         Welcome to the CS 1021 Login!       \n\n";
+    cout << "\t\t\t         Welcome to the NEMO 2023 Login!       \n\n";
     cout << "\t\t\t_________           Menu           __________\n\n";
     cout << "\t | Press 1 to LOGIN                              |" << endl;
     cout << "\t | Press 2 to REGISTER                           |" << endl;
