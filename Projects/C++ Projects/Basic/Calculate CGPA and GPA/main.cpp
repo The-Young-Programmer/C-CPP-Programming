@@ -17,7 +17,7 @@ int main()
     system("cls");
     int input;
     cout<<"--------------------------------------------------------------------------"<<endl;
-    cout<<"                    GPA & CGPA Calculator (Developed by Ohid)             "<<endl;
+    cout<<"                    GPA & CGPA Calculator (Developed by Nemo)             "<<endl;
     cout<<"--------------------------------------------------------------------------\n"<<endl;
     cout<<"            MENU:"<<endl;
     cout<<"                   1. Calculate GPA (Grade Point Average)"<<endl;
