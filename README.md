@@ -78,7 +78,7 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
  
 </details>
 
-<details><summary>C++ Advance</summary>
+<details><summary>C++ Advance (GUI)</summary>
   Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
 </details>
 
@@ -112,7 +112,7 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
  
 </details>
 
-<details><summary>C Advance</summary>
+<details><summary>C Advance (GUI)</summary>
   Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
 </details>
  
@@ -148,6 +148,13 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
      </details>
 </details>
 
+ <details><summary>Download App</summary>
+  
+  - [For Android](#android)
+  - [For IOS](#ios)
+
+
+  </details>
 
   - [How To Contribute](#how-to-contribute)
   - [Contributors](#contributors)
