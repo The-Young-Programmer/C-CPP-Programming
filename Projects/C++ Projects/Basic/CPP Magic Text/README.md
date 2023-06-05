@@ -1,1 +1,1 @@
-hhhh
+# CPP Magic Text
