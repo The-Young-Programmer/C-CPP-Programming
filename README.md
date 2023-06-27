@@ -50,31 +50,33 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 
 <details><summary>C++ Basics</summary>
  
-  - [Syntax](#syntax)
+  - [Syntax](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md/#syntax)
  
-  - [Comments](#comments)
+  - [Comments](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Variables](#variables) 
+  - [Variables](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
+
+  - [Keywords](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Data Types](#data-types)
+  - [Data Types](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Operators](#operators)
+  - [Operators](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [IF Statement](#if-statement) 
+  - [IF Statement](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Switch](#switch)
+  - [Switch](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Loop Type](#loop-type)
+  - [Loop Type](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Pointer](#pointer)
+  - [Pointer](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Arrays](#arrays)
+  - [Arrays](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Functons](#functions)
+  - [Functons](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [Structure](#structure)
+  - [Structure](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
-  - [File Handling](#file-handling)
+  - [File Handling](/Tutorials/C%2B%2B%20Basic%20Tutorials/Tutorial.md)
  
 </details>
 
@@ -84,11 +86,13 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 
 <details><summary>C Basics</summary>
  
- - [Syntax](#syntax)
+ - [Syntax](/Tutorials/C%20Basic%20Tutorials/README.md)
  
  - [Comments](#comments)
  
- - [Variables](#variables) 
+ - [Variables](#variables)
+
+  - [Keywords](#keywords)
  
  - [Data Types](#data-types)
  
@@ -150,8 +154,8 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 
  <details><summary>Download App</summary>
   
-  - [For Android](#android)
-  - [For IOS](#ios)
+  - [For Android](https://playstore.com)
+  - [For IOS](https://appstore.com)
 
 
   </details>
@@ -174,11 +178,30 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 
 * C++ was developed by Bjarne Stroustrup, as an extension to the C language.
 
+* It is developed at AT and T's Bell Lab (USA) in 1979
+
 * The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.
 
 * C++ is fun and easy to learn!
 
 * As C++ is close to C# and Java, it makes it easy for programmers to switch to C++ or vice versa.
+
+ </p>
+
+ <p><b>Application of C++</b>
+
+* Developing Games 
+
+* Operating Syatems
+  
+* Compilers and Editors
+
+* Database Systems and Interpreters
+
+* Graphics Packages
+
+* Network Drivers
+
  </p>
 
 ### C++ compiler /IDE 
@@ -250,6 +273,8 @@ int main() {
 * It is a very popular language, despite being old.
 
 * C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
+
+* Both C/C++ has the same features and applications
 
 **NOTE**
 C and C++ uses the same compiler and IDE
