@@ -120,51 +120,51 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
   Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
 </details>
  
- 
-<details><summary>Projects</summary>
+ <details><summary>Projects</summary>
 
-   - <details><summary>C++ Projects</summary>
+  - <details><summary>C++ Projects</summary>
 
-     - [A Login and Registration System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/A%20Login%20and%20Registration%20System)
+      - [A Login and Registration System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/A%20Login%20and%20Registration%20System)
     
-     - [AIO Calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/AIO%20Calculator)
+      - [AIO Calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/AIO%20Calculator)
  
-     - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Bank%20Management%20System)
+      - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Bank%20Management%20System)
     
-     - [CPP Magic Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/CPP%20Magic%20Text)
+      - [CPP Magic Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/CPP%20Magic%20Text)
     
-     - [Calculate CGPA and GPA](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Calculate%20CGPA%20and%20GPA) 
+      - [Calculate CGPA and GPA](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Calculate%20CGPA%20and%20GPA) 
 
-    - [Encryption and Decryption of Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Encryption%20and%20Decryption%20of%20Text)
+      
+      - [Encryption and Decryption of Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Guessing%20Game)
 
-     - [Encryption and Decryption of Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Guessing%20Game)
+      - [Guessing Game](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Guessing%20Game)
 
-     - [Guessing Game](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Guessing%20Game)
+      - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Hotel%20Management%20System)
 
-     - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Hotel%20Management%20System)
+      - [Supermarket Billing System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Supermarket%20Billing%20System)
 
-     - [Supermarket Billing System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Supermarket%20Billing%20System)
-
-     - [Temperature-calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Temperature-calculator)
+      - [Temperature-calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Temperature-calculator)
  
-     - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Advance%20(GUI)/Basic%20Calculator%20(GUI))
+      - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Advance%20(GUI)/Basic%20Calculator%20(GUI))
  
   
-     </details>
+    </details>
 
-   - <details><summary>C Projects</summary>
+  - <details><summary>C Projects</summary>
 
-     - [Avoid Missile](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Avoid%20Missile)
+      - [Avoid Missile](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Avoid%20Missile)
     
-     - [Love-Calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Love-Calculator)
+      - [Love-Calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Love-Calculator)
 
-     - [Modern Periodic Table](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Modern%20Periodic%20Table)
+      - [Modern Periodic Table](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Modern%20Periodic%20Table)
     
-     - [Tic Tac Toe Game](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Tic%20Tac%20Toe%20Game)
+      - [Tic Tac Toe Game](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Tic%20Tac%20Toe%20Game)
 
  
-     </details>
+    </details>
+
 </details>
+
 
  <details><summary>Download App</summary>
   
