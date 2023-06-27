@@ -124,31 +124,45 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 <details><summary>Projects</summary>
 
    - <details><summary>C++ Projects</summary>
+
+     - [A Login and Registration System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/A%20Login%20and%20Registration%20System)
+    
+     - [AIO Calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/AIO%20Calculator)
  
-     - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
+     - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Bank%20Management%20System)
+    
+     - [CPP Magic Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/CPP%20Magic%20Text)
+    
+     - [Calculate CGPA and GPA](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Calculate%20CGPA%20and%20GPA) 
+
+    - [Encryption and Decryption of Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Encryption%20and%20Decryption%20of%20Text)
+
+     - [Encryption and Decryption of Text](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Guessing%20Game)
+
+     - [Guessing Game](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Guessing%20Game)
+
+     - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Hotel%20Management%20System)
+
+     - [Supermarket Billing System](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Supermarket%20Billing%20System)
+
+     - [Temperature-calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Basic/Temperature-calculator)
  
-     - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI))
+     - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%2B%2B%20Projects/Advance%20(GUI)/Basic%20Calculator%20(GUI))
  
-     - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System) 
- 
-     - [Sci. Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI))
- 
-     - [Tic-Tac-Toe game](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game)
- 
+  
      </details>
 
    - <details><summary>C Projects</summary>
 
-     - [Bank Management system ](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Bank%20Management%20System)
- 
-     - [Basic Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Basic%20Calculator%20(GUI))
- 
-     - [Hotel Management System](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Hotel%20Management%20System) 
- 
-     - [Sci. Calculator (GUI)](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Sci.%20Calculator%20(GUI))
- 
-     - [Tic-Tac-Toe game](https://github.com/The-Young-Programmer/C-CPP-Programming-Project/tree/main/Tic-Tac-Toe%20game)
+     - [Avoid Missile](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Avoid%20Missile)
+    
+     - [Love-Calculator](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Love-Calculator)
 
+     - [Modern Periodic Table](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Modern%20Periodic%20Table)
+    
+     - [Tic Tac Toe Game](https://github.com/The-Young-Programmer/C-CPP-Programming/tree/main/Projects/C%20Projects/Basic/Tic%20Tac%20Toe%20Game)
+
+ 
      </details>
 </details>
 
