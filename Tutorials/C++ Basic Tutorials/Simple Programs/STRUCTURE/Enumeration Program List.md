@@ -5,7 +5,11 @@
  - FORK to get more update
  - Make a PULL REQUEST to countribute
 
-<br><br>
+<br>
+
+### Put your phone in Desktop mode for easy access
+
+<br>
 
 
  <hr>
