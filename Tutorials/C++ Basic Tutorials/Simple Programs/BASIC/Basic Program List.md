@@ -5,9 +5,13 @@
  - FORK to get more update
  - Make a PULL REQUEST to countribute
 
-<br><br>
+<br>
 
-<a href="addition">
+### Put your phone on Desktop mode for easy access
+
+<br>
+
+
  <hr>
 
  <details><summary>ADDITION OF TWO NUMBER</summary>
@@ -27,7 +31,8 @@
             cout<<"Add="<<c;
         }
 
-    ```
+
+     ```
 
 <img>
 
@@ -35,7 +40,7 @@
  </details>
 
 
-<a href="subtraction">
+
  <hr>
 
  <details><summary>SUBTRACTION OF TWO NUMBER</summary>
@@ -63,7 +68,7 @@
  </details>
 
 
-<a href="multiplication">
+
  <hr>
 
  <details><summary>MULTIPLICATION OF TWO NUMBER</summary>
@@ -91,7 +96,7 @@
  </details>
 
 
-<a href="division">
+
  <hr>
 
  <details><summary>DIVISION OF TWO NUMBER</summary>
@@ -120,7 +125,7 @@
 
 
 
-<a href="area-rectangle">
+
  <hr>
 
  <details><summary>AREA OF RECTANGLE</summary>
@@ -149,7 +154,7 @@
 
 
 
-<a href="area-square">
+
  <hr>
 
  <details><summary>AREA OF SQUARE</summary>
@@ -176,7 +181,7 @@
 
 
 
-<a href="area-circle">
+
  <hr>
 
  <details><summary>AREA OF CIRCLE</summary>
@@ -204,7 +209,7 @@
 
 
 
-<a href="area-triangle">
+
  <hr>
 
  <details><summary>AREA OF TRIANGLE</summary>
@@ -233,7 +238,7 @@
 
 
 
-<a href="average">
+
  <hr>
 
  <details><summary>INPUT MARKS OF 5SUBJECT AND FIND THERE AVERAGE</summary>
@@ -269,7 +274,7 @@
  </details>
 
 
-<a href="simple-interest">
+
  <hr>
 
  <details><summary>SIMPLE INTEREST PROGRAM</summary>
@@ -298,39 +303,12 @@
 
  </details>
 
+<br><br><br>
 
-<!--
-<a href="swapping-methode-1">
- <hr>
-
- <details><summary>SWAPPING OF TWO NUMBERS (METHODE 1)</summary>
-
-    ```
-
-    #include <iostream>
-    using namespace std;
-    int main()
-        {
-            int a=10,b=20,
-            cout<<"Enter principle\n";
-            cin>>p;
-            cout<<"Enter rate of interest\n";
-            cin>>r;
-            cout<<"Enter time\n";
-            cin>>t;
-            si=(p*r*t)/100;
-            cout<<"Simple Interest="<<si;
-        }
-
-    ```
-
-<img>
-
-
- </details>
--->
-
-
+**Note:**
+ - Give a STAR if you like this 
+ - FORK to get more update
+ - Make a PULL REQUEST to countribute
 
 
 
