@@ -5,9 +5,9 @@
  - FORK to get more update
  - Make a PULL REQUEST to countribute
 
+<br><br>
 
 
-<a href="greater-2values">
  <hr>
 
  <details><summary>GREATER VALUE IN 2 NUMBER</summary>
@@ -77,7 +77,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>CHECK IF A NUMBER IS +ve or -ve or 0</summary>
@@ -108,7 +108,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>SHOW RESULT ACCORDING TO PEERCENT</summary>
@@ -142,7 +142,7 @@
  </details>
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>EVEN ODD PROGRAM</summary>
@@ -174,7 +174,7 @@
  </details>
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>VOTING PROGRAM</summary>
@@ -207,7 +207,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>CONSTANT OR VOWEL PROGRAM</summary>
@@ -240,7 +240,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>AREA OF SQUARE</summary>
@@ -276,7 +276,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>CHECK ALPHABET IS UPPERCASE OR LOWEWRCASE</summary>
@@ -310,7 +310,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>CHECK IF A TRIANGLE IS VALID OR NOT</summary>
@@ -347,7 +347,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>CALCULATE PROFIT AND LOSS</summary>
@@ -384,7 +384,7 @@
  </details>
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>SHOW RESULT ACCORDING TO PERCENT USING IF ELSE</summary>
@@ -417,7 +417,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>GREATER VALUE IN 3 NUMBER USING IF ELSE STATEMENT</summary>
@@ -453,7 +453,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>CHECK IF CHARACTER IS ALPHABET OR DIGIT OR SPECIAL SYMBOL</summary>
@@ -485,7 +485,7 @@
 
 
 
-<a href="#">
+
  <hr>
 
  <details><summary>CONVERT UPPERCASE INTO LOWERCASE AND LOWERCASE INTO UPPERCASE</summary>

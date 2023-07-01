@@ -7,7 +7,14 @@
  - Make a PULL REQUEST to countribute
 
 
-<br><br>
+
+
+
+<br>
+
+### Put your phone in desktop mode for easy access
+
+<br>
 
 
 
@@ -15,9 +22,11 @@
 
 <details>
 <summary><b> Syntax of C++ Language </b></summary>
-
-<img>
-
+<br>
+<div align="left">
+   <img src="../imgs/C%2B%2B/img1.jpg" height="60%" width="60%">
+</div>
+<br>
 
 - **iostream**
 	1. It stands for input output stream
@@ -54,11 +63,18 @@
 - **cout**
 	1. It is a keyword which is used to print data or information on the output screen
 	2. It is always use with insertion operator
+	3. `cout` (pronounced "see-out")
 
 - **getch**
 	1. It is a predefine function which is used to hold the output screen
 	2. It acts like a duster on the output screen
 	3. It is define in the `conio.h` header file
+
+
+- **Remember:**  
+	- The compiler ignores white spaces. However, multiple lines makes the code more readable.
+	- Every C++ statement ends with a semicolon (;)
+  
 
 </details>
 
@@ -69,7 +85,31 @@
 
 <details><summary><b>Comments in C++</b></summary>
 
+  - **Definition**
+      * Comments can be used to explain C++ code, and to make it more readable. 
+      * It can also be used to prevent execution when testing alternative code.
+      * Comments can be singled-lined or multi-lined.
+ 
 
+
+  1. Single-line comments start with two forward slashes (//).
+ 
+ 		```
+
+		 // This is a comment
+		cout << "Hello World!";
+
+		 ```
+ 
+  2. Multi-line comments start with /* and ends with */.
+ 
+ 		```
+
+ 		/* The code below will print the words Hello World!
+		to the screen, and it is amazing */
+		cout << "Hello World!";
+
+ 		```
 
 </details>
 
@@ -87,6 +127,14 @@
      	2. It's value is changable
      	3. It always contains last value stored to it
      	4. It's always declare with data type
+
+	  - In C++, there are different types of variables (defined with different keywords), for example:
+
+        * `int` - stores integers (whole numbers), without decimals, such as 123 or -123
+        * `double` - stores floating point numbers, with decimals, such as 19.99 or -19.99
+        * `char` - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+        * `string` - stores text, such as "Hello World". String values are surrounded by double quotes
+        * `bool` - stores values with two states: true or false
 
       - **Varable Declaration**
 
@@ -122,6 +170,28 @@
      	3. After first character it may be combination of alphabets and digits
      	4. Blank space are not allowed in variable name 
      	5. Variable name should not be a keyword 
+
+
+	 - **To create a variable, specify the type and assign it a value:**
+
+ 		`type variableName = value;`
+ 
+ 		**Note:** Where `type` is one of C++ types (such as `int`), and `variableName` is the name of the variable (such as x or myName). The equal sign is used to assign values to the variable.
+ 
+ 			**Example 1**
+
+			Create a variable called x of type int and assign it the value 15:
+			```
+			#include <iostream>
+			using namespace std;
+
+			int main() {
+  				int myNum = 15;
+  				cout << myNum;
+  				return 0;
+			}
+
+			```
 
 	</details>
 
@@ -162,8 +232,173 @@
     </details>
 
 
-  - <details><summary><b>Storage classes in C++</b></summary>
+  - <details><summary><b>Storage Classes in C++</b></summary>
 
+      - **Definition**
+		A storage classes in C++ defines the **scope, lifetime, default initial value** and **storage space** of a variable.
+
+		There are four storage classes in C++:
+        1. automatic
+        2. static
+        3. register
+        4. external
+
+        - **automatic:storage class**
+          1. Automatic variables are declared inside a function in which they havae to used
+          2. When the function is called automatic variables are created and destroy when function is exited
+          3. Automatic variables can nt be used outside that function in which its declared. It means w can say that it is private member
+          4. Automatic variables are also known as local variable
+          5. `auto` keyword is usd to declare automatic ttype variable
+   
+			<br>
+       		<div align="left">
+   			<img src="../imgs/C%2B%2B/img6.jpg" height="60%" width="60%">
+			</div>
+			<br>
+
+
+        - **Example**
+        
+			```
+			#include<iostream>
+			using namespace std;
+			int main()
+			{
+				auto int x=5;
+				{
+					auto int x=3;
+					{
+						auto x=1;
+						cout<<x<<end1;
+					}
+					cout<<x<<end1;
+				}
+				cout<<x<<end1;
+			}
+
+
+			/*
+			### Output ###
+			1
+			3
+			5
+			*/
+			```
+
+			Here the value of innermost x is 1, out of this block value is 3 and out of this block is 5.
+
+
+		- **static:storage class**
+          1. Static variables can be used anywhere in the program inside or outside of a function or block
+          2. The value of a static variable exits untill the end of program
+          3. The satic variable which is declared inside a function is called "internal static variable" and it can not be used outside that function
+          4. The static variable which is declared outside a function is called external variable" and it can be used in all the function of that program
+   
+			<br>
+       		<div align="left">
+   			<img src="../imgs/C%2B%2B/img7.jpg" height="60%" width="60%">
+			</div>
+			<br>
+
+
+        - **Example**
+        
+			```
+			#include<iostream>
+			using namespace std;
+			void demo()
+			{
+				static it x=0;
+				cout<<x<<end1;
+				x++;
+			}
+			int main()
+			{
+				Demo(); 	// calling
+				Demo();
+				Demo();
+				Demo();
+			}
+			
+
+
+			/*
+			### Output ###
+			0
+			1
+			2
+			3
+			*/
+			```
+
+			Here the Demo function is called four times and each time value is incremented by one.
+
+
+		- **Register:storage class**
+          1. registr variables is stored in one of the register of system, instead of memory
+          2. Value stored in register can be accessed faster than one that is stored in memory
+   
+			<br>
+       		<div align="left">
+   			<img src="../imgs/C%2B%2B/img8.jpg" height="60%" width="60%">
+			</div>
+			<br>
+
+
+        - **Example**
+        
+			```
+			#include<iostream>
+			using namespace std;
+			int main()
+			{
+				register int x,y=20,z=30;
+				x=y+z;
+				cout<<"Add="<<x
+			}
+			
+
+
+			/*
+			### Output ###
+			Add=50
+			*/
+			```
+
+			
+
+		- **external:storage class**
+          1. Variable that can be used any where in the program is called external variable
+          2. External storage class does not create a variable, but its inform the compiler of its existence
+          3. `extern` keyword is used to declare external variable 
+
+
+			<br>
+       		<div align="left">
+   			<img src="../imgs/C%2B%2B/img9.jpg" height="60%" width="60%">
+			</div>
+			<br>
+
+
+        - **Example**
+        
+			```
+			#include<iostream>
+			using namespace std;
+			int x=10; 	// extarnal variable
+			int main()
+			{
+				extern int x=5;
+				cout<<x;
+			}
+			
+
+
+			/*
+			### Output ###
+			5
+			*/
+			```
 
 
     </details>
@@ -233,21 +468,38 @@
 	1. It is a type of data which is used in the program
 	2. There are many predefined data types in C/C++ library like `int,char, float` etc
 	
-	<img>
+	<br><Br>
+
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img2.jpg" height="60%" width="60%">
+	</div>
+	<br>
 
 - **Integer Type**
 
-	<img>
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img3.jpg" height="60%" width="60%">
+	</div>
+	<br>
 
 
 - **Float Type**
 
-	<img>
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img4.jpg" height="60%" width="60%">
+	</div>
+	<br>
 
 
 - **Character Type**
 
-	<img>
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img5.jpg" height="60%" width="60%">
+	</div>
+	<br>
 
 
 </details>
@@ -256,9 +508,262 @@
 
 <hr>
 
-<details><summary><b>Operators in C++</b></summary>
+<details><summary><b>Operator in C++</b></summary>
+
+<br>
+	<div align="left">
+   	<img src="../imgs/C%2B%2B/img10.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+- **Operator**
+	It is a special symbol which is used to perform logical or mathematical operation on data or variable.
+
+- **operand**
+	It is a data or variable on which the operation is to be performed.
+
+- **Types of Operator**
+	- Arithmetic Operators
+	- Relational Operators
+	- Logical Operators
+	- Assignment Operators
+	- Bitwise Operators
+	- Increment/Decrement Operators
+	- Conditional Operators
+	- Special Operators
+
+<br>
 
 
+- **Arithmetic Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img11.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+	```
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		int a=5,b=3;
+		cout<<(a+b)<<"\n";
+		cout<<(a-b)<<"\n";
+		cout<<(a*b)<<"\n";
+		cout<<(a/b)<<"\n";
+		cout<<(a%b)<<"\n"; 	// %(modulus) holds remainder
+	}
+
+	/*
+	### Output ###
+	8
+	2
+	15
+	1
+	2
+	*/
+	```
+
+
+	<br>
+
+- **Relational Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img12.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+
+<br>
+
+
+- **Logical Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img13.jpg" height="60%" width="60%">
+	</div>
+	<br>
+	
+	```
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		int a=10,b=50,c=30;
+		if(a>b&&a>c)
+		cout<<"a is greater";
+		if(b>a&&b>c)
+		cout<<"b is greater";
+		if(c>a&&c>b)
+		cout<<"c is greater";
+	}
+
+	/*
+	### Output ###
+	b is greater
+	*/
+	```
+
+<br>
+
+
+- **Assignment Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img14.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+
+	```
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		int x1=5,y1=3;
+		x1+=y1; 	// x1=x1+y1
+		cout<<"x1="<<x1<<"\n";
+
+		int x2=5,y2=3;
+		x2-=y2; 	// x2=x2-y2
+		cout<<"x2="<<x2<<"\n";
+
+		int x3=5,y3=3;
+		x3*=y3; 	// x3=x3*y3
+		cout<<"x3="<<x3<<"\n";
+
+		int x4=5,y4=3;
+		x4/=y4; 	// x4=x4/y4
+		cout<<"x4="<<x4<<"\n";
+
+		int x5=5,y5=3;
+		x5%=y5; 	// x5=x5%y5
+		cout<<"x5="<<x5<<"\n";
+	}
+
+	/*
+	### Output ###
+	x1=8
+	x2=2
+	x3=15
+	x4=1
+	x5=2
+	*/
+	```
+
+<br>
+
+
+- **Bitwise Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img15.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+
+	```
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		int a=5,b=3,c; 	// variable declaration
+		c=a&b; 	 	// AND operation
+		cout<<"a&b="<<c<<"\n";
+		c=a|b; 	 	// OR operation
+		cout<<"a|b="<<c<<"\n";
+		c=a>>2; 	 	// shift right operation
+		cout<<"a>>2="<<c<<"\n";
+		c=a<<2; 	 	// shift left operation
+		cout<<"a<<2="<<c<<"\n";
+		
+	}
+
+	/*
+	### Output ###
+	a&b=1
+	a|b=7
+	a>>2=1
+	a<<2=20
+	*/
+	```
+
+
+<br>
+
+
+- **Increment/Decrement Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img16.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+
+	```
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		int a=5,b=10;
+		cout<<++a<<end1;
+		cout<<--b;
+	}
+
+	/*
+	### Output ###
+	6
+	9
+	*/
+	```
+
+
+<br>
+
+
+- **Conditional Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img17.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+
+	```
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		int a=10,b=20;
+		a>b?
+		cout<<"a is greater than b":cout<<"b is greater than a";
+	}
+
+	/*
+	### Output ###
+	b is greater than a
+	*/
+	```
+
+<br>
+
+
+- **Special Operators**
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img18.jpg" height="60%" width="60%">
+	</div>
+	<br>
 
 </details>
 
@@ -270,7 +775,213 @@
 
 <details><summary><b>IF Statement in C++</b></summary>
 
+  - <details><summary><b> IF Statement</b></summary>
 
+	  - **Syntax**
+
+		<br>
+		<div align="left">
+   		<img src="../imgs/C%2B%2B/img19.jpg" height="60%" width="60%">
+		</div>
+		<br>
+
+
+		1. If the condition is true its body execute otherwise does not execute
+		2. In the case of if in the place of condition always zero and non-zero value is checked. 
+		3. In which zero means condition false and non-zero means condition true.
+
+
+		- **Example**
+
+			```
+			#include<iostream>
+			#include<conio.h>
+			int main()
+			{
+				// Assign value to the variable 
+				int x=50,y=20;
+				// checking the condition
+				if(x>y)
+				{
+					cout<<"x is greater than y";
+				}
+			}
+
+
+			/*
+			### Output ###
+			x is greater than y
+			*/
+			```
+
+
+		<br>
+
+		<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/IF%2C%20IF%20ELSE%2C%20NESTED%20IF/If%20Program%20List.md">Click for Practical Program</a>
+
+
+    </details>
+
+  - <details><summary><b>IF else statement </b></summary>
+
+
+	   <br>
+	   <div align="left">
+       <img src="../imgs/C%2B%2B/img20.jpg" height="60%" width="60%">
+	   </div>
+	   <br>
+
+
+	  - **Syntax**
+		1. If the condition is true, 'if' part is executes and if the conditions is false, 'else' part is execute
+		2. In the case of 'if' in the condition always zero and non-zero value is checked 
+		3. In which zero means condition false and non-zero means condition true  
+
+
+		<br>
+
+	  - **Example**
+
+
+		  ```
+		    #include<iostream>
+			int main()
+			{
+				// Assign value to the variable 
+				int x=50,y=20;
+				// checking the condition
+				if(x==y)
+				{
+					cout<<"x is equal to y";
+				}
+				else
+				{
+					cout<<"x is not equal to y";
+				}
+			}
+
+
+			/*
+			### Output ###
+			// In the above program condition is 'false' because te value of x=50 and y=20 and they are not equal, so 'else' part will execute
+
+			x is not equal to y
+			*/
+		  ```
+
+
+	<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/IF%2C%20IF%20ELSE%2C%20NESTED%20IF/If%20Program%20List.md">Click for Practical Program</a>
+
+	</details>
+
+  - <details><summary><b>IF else ladder statement </b></summary>
+
+	   <br>
+
+	   <div align="left">
+   	   <img src="../imgs/C%2B%2B/img21.jpg" height="60%" width="60%">
+	   </div>
+	   <br>
+
+	  - **Syntax**
+		1. It is a part of conditional statement that executes only one condition at a time
+		2. If all condition are false then 'else' part executes
+		3. It executes that condition that becomes first true from the top
+		4. In the case of 'if' in the place of condition always zero and non-zero value is checked in which zero means condition 'false' and non-zero means conditon 'true'
+
+
+		<br>
+
+	  - **Example**
+
+
+		  ```
+		    #include<iostream>
+			int main()
+			{
+				// Assign value to the variable 
+				int x=10;
+				if(x>5) 	// checking the condition
+				{
+					cout<<"x is greater than 5";
+				}
+				else if(x<8) 	// checking the condition
+				{
+					cout<<"x is less than 8";
+				}
+				else if(x==10) 	// checking the condition
+				{
+					cout<<"x is equal to 10";
+				}
+				else
+				{
+					cout<<"No one condition is true";
+				}
+			}
+
+
+			/*
+			### Output ###
+			x is greater than 5
+			*/
+		  ```
+
+		  **Note:** As we can see from the above program, there are three conditions in which first and third condition are true but the it executes only one condition that becomes first true from the above so the output is "x is greater than 5" 
+
+
+	<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/IF%2C%20IF%20ELSE%2C%20NESTED%20IF/If%20Program%20List.md">Click for Practical Program</a>
+	
+
+	</details>
+
+  - <details><summary><b>Nested IF</b></summary>
+
+	   <br>
+	   <div align="left">
+       <img src="../imgs/C%2B%2B/img22.jpg" height="60%" width="60%">
+	   </div>
+	   <br>
+
+	  - **Syntax**
+
+		1. Nested means "one inside another", so one 'if' inside another 'if' is called 'nested if'
+		2. In case of 'if' in the place of condition always zero and non-zero value is checked in which zero means condition 'false' and non-zero means condition 'true'
+		  
+
+	  - **Example**
+
+
+		  ```
+		    #include<iostream>
+			int main()
+			{
+				// Assign value to the variable 
+				int x=10;
+				if(x>5) 	// checking the condition
+				{
+					if(x<15) 	// checking the condition
+					{
+						cout<<"x is greater than 5 and less than 15";
+					}
+				}
+				
+			}
+
+
+			/*
+			### Output ###
+			x is greater than 5 and less than 15
+			*/
+		  ```
+
+		  **Note:** In the above program the outer 'if' condition is 'true', so it's body will execute and the condition of inner 'if' is also 'true', so the output is "x is greater than 5 and less than 15"
+
+
+
+		<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/IF%2C%20IF%20ELSE%2C%20NESTED%20IF/If%20Program%20List.md">Click for Practical Program</a>
+	</details>
+
+	
 
 </details>
 
@@ -280,6 +991,10 @@
 <hr>
 
 <details><summary><b>Switch in C++</b></summary>
+
+
+
+
 
 
 
@@ -1641,6 +2356,28 @@
 	```
 
 </details>
+
+
+
+
+
+#### Escape Sequence in C++
+ 
+| Escape Sequence            |                    Description                |
+| -------------------------- | :-------------------------------------------: |
+| \n   or  endl              |    To insert a new line or to break lines     |
+| \n\n                       |         create a blank line                   |
+|      \t                    |         Creates a horizontal tab              |
+|       \\                   |   Inserts a backslash character (\)           |
+|         \"                 |         Inserts a double quote character      | 
+
+
+
+
+
+
+
+
 
 <br><br><br>
 
