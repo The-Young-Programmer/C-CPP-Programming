@@ -5,11 +5,7 @@
  - FORK to get more update
  - Make a PULL REQUEST to countribute
 
-<br>
-
-### Put your phone in Desktop mode for easy access
-
-<br>
+<br><br>
 
 
  <hr>
@@ -45,7 +41,7 @@
 
 
 
-
+<a href="greater-3values">
  <hr>
 
  <details><summary>GREATER VALUE IN 3 NUMBER</summary>

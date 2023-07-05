@@ -7,7 +7,7 @@
 
 <br>
 
-### Put your phone on Desktop mode for easy access
+*Put your phone in desktop mode for easy access*
 
 <br>
 
@@ -31,8 +31,7 @@
             cout<<"Add="<<c;
         }
 
-
-     ```
+    ```
 
 <img>
 
@@ -96,7 +95,6 @@
  </details>
 
 
-
  <hr>
 
  <details><summary>DIVISION OF TWO NUMBER</summary>
@@ -151,7 +149,6 @@
 
 
  </details>
-
 
 
 
@@ -302,14 +299,6 @@
 
 
  </details>
-
-<br><br><br>
-
-**Note:**
- - Give a STAR if you like this 
- - FORK to get more update
- - Make a PULL REQUEST to countribute
-
 
 
 

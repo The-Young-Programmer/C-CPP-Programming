@@ -992,7 +992,61 @@
 
 <details><summary><b>Switch in C++</b></summary>
 
+ - **Definition**
 
+	  Switch statement allows us to execute one statement from many statement and that statements are called case.
+
+	  Actually in switch statement, inside the body of switch a number of cases are used and a parameter are passed and from which cas this parameter is matched, executed.  
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C%2B%2B/img23.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+   - **Syntax**
+
+		1. IN the switch statement a value/number is passed in the place of parameter and that case will execute which is equal to the value/number.
+		2. If no case matched with parameter then default case will execute. 
+		  
+
+   - **Example**
+
+
+		```
+		    #include<iostream>
+			int main()
+			{
+				// Assigning parameter;s value 
+				int p=2;
+				switch(p)
+				{
+					case 1:
+					cout<<"it is case 1";
+					break;
+					case 2:
+					cout<<"it is case 2";
+					break;
+					case 3:
+					cout<<"it is case 3";
+					break;
+					default:
+					cout<<""no case matched";
+				}
+				return 0;
+				
+			}
+
+
+			/*
+			### Output ###
+			it is case 2 	// because p=2 so case 2 will execute
+			*/
+		```
+
+
+
+		<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/SWITCH/Switch%20Program%20List.md">Click for Practical Program</a>
 
 
 
@@ -1009,6 +1063,240 @@
 <details><summary><b>Loop-Type in C++</b></summary>
 
 
+  - <details><summary><b> For Loop</b></summary>
+
+	  - **Definition**
+
+		To run the body countinously untill a required condition is fullfill is called looping.
+
+		When the condition will become 'false' the execution of loop will be stopped.
+
+	  - **Syntax**
+
+		<br>
+		<div align="left">
+   		<img src="../imgs/C%2B%2B/img24.jpg" height="60%" width="60%">
+		</div>
+		<br>
+
+
+		1. In 'for loop' there are three part: initialization, condition and increment/decrement
+		2. Initialization part executes only once
+		3. All the three part of 'for loop' are optional 
+
+
+		- **Example**
+
+			```
+			#include<iostream>
+			int main()
+			{
+				for(int i=1;i<=10;i++)
+				{
+					cout<<i<<"\n";
+				}
+			}
+
+
+			/*
+			### Output ###
+			1
+			2
+			3
+			4
+			5
+			6
+			7
+			8
+			9
+			10
+
+			*/
+			```
+
+			In the above program, 'i' is a variable which is initialized with 1, condition goes to 10 and it is incremented by 1.
+
+			So the output will be 1 to 10.
+
+
+		<br>
+
+		<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/LOOP/FOR%20LOOP/For%20Loop%20Program%20List.md">Click for Practical Program</a>
+
+
+    </details>
+
+  - <details><summary><b>While Loop </b></summary>
+
+	  - **Definition**
+		- To run the body countinously untill a required condition is fullfill is called "looping".
+		- It is used to perform looping operation, when the condition will become false the execution of loop will be stopped 
+
+
+	   <br>
+	   <div align="left">
+       <img src="../imgs/C++/img25.jpg" height="60%" width="60%">
+	   </div>
+	   <br>
+
+
+	  - **Syntax**
+		1. Its body will execute until the given condition is true
+
+
+		<br>
+
+	  - **Example**
+
+
+		  ```
+		    #include<iostream>
+			int main()
+			{
+				
+				int i=1;
+				while(i<=10)
+				{
+					cout<<i<<"\n";
+					i++;
+				}
+			}
+
+
+			/*
+			### Output ###
+			1
+			2
+			3
+			4
+			5
+			6
+			7
+			8
+			9
+			10
+
+			*/
+		  ```
+
+		  In the above program, 'i' is a variable which is initialized with '1', condition goes to 10 and it is incremented by 1 so the output will be 1 to 10. 
+
+
+	<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/LOOP/WHILE%20LOOP/While%20Loop%20Program%20List.md">Click for Practical Program</a>
+
+	</details>
+
+  - <details><summary><b>Do While Loop </b></summary>
+	  - **Definition**
+		- To run the body countinously untill a required condition is fullfill is called "looping".
+		- It is used to perform looping operation, when the condition will become false the execution of loop will be stopped 
+
+	   <br>
+
+	   <div align="left">
+   	   <img src="../imgs/C++/img26.jpg" height="60%" width="60%">
+	   </div>
+	   <br>
+
+	  - **Syntax**
+		1. Its body will execute until the given condition is true.
+
+
+		<br>
+
+	  - **Example**
+
+
+		  ```
+		    #include<iostream.h>
+			int main()
+			{
+				int i=1;
+				do
+				{
+					cout<<i<<"\n";
+					i++;
+				}
+				while(i<=10);
+			}
+
+
+			/*
+			### Output ###
+			1
+			2
+			3
+			4
+			5
+			6
+			7
+			8
+			9
+			10
+
+			*/
+		  ```
+
+		  **Note:** In the above program, 'i' is a variable which is initialixed with '1', conditin goes to 10 and it is incremented by 1 so the output will be 1 to 10.
+
+
+	<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/LOOP/DO%20WHILE%20LOOP/Do%20While%20Loop%20Program%20List.md">Click for Practical Program</a>
+	
+
+	</details>
+
+  - <details><summary><b>Nested Loop</b></summary>
+
+	  - **Definition**
+	  	A loop inside another loop is called "nested loop", so one 'for loop' inside another 'for loop' is called "nested loop"
+
+	  - **Syntax**
+
+	   <br>
+	   <div align="left">
+       <img src="../imgs/C++/img27.jpg" height="60%" width="60%">
+	   </div>
+	   <br>
+		  
+
+	  - **Example**
+
+
+		  ```
+		    #include<iostream.h>
+			int main()
+			{
+				int n;
+				cout<<"Enter number upto you want to print prime number\n";
+				cin>>n;
+				for(int i=2;i<=n;i++)
+				{
+					int no=i,m=0;
+					for(int j=2;j<=no-1;j++)
+					{
+						if(no%j==0)
+						m=1;
+					}
+					if(m==0)
+					cout<<no<<" ";
+				}
+				
+			}
+
+
+			/*
+			### Output ###
+			Enter number upto you want to print prime number
+			20
+			2 3 5 7 11 13 17 19 
+			*/
+		  ```
+
+
+		<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/LOOP/FOR%20LOOP/For%20Loop%20Program%20List.md">Click for Practical Program</a>
+	</details>
+
+
 
 </details>
 
@@ -1020,6 +1308,70 @@
 
 <details><summary><b>Pointer in C++</b></summary>
 
+  - **Definition**
+	1. It is a special type of variable which is used to store the address of another variable
+	2. It can store the address of same data types (i.e an integer pointer can store the address of integer variable, character pointer can store the address of character variable and so on)
+	3. If we add asterik(*) symbol with anny variable at the time of dclaring variable, then this variable is called "pointer variable"
+	4. We use ampersand symbol to get the address of variable
+	5. * symbol is used to get the value at address which is hold by pointer
+
+
+	<br>
+	<div align="left">
+    <img src="../imgs/C++/img28.jpg" height="60%" width="60%">
+	</div>
+	<br>
+
+  - **Syntax**
+
+	1. Here 'a' is a normal variable
+	2. 'p' is apointer variable because it is associated with * symbol
+
+
+<br>
+
+  - **Example**
+
+	```
+
+	#include<iostream.h>
+	int main()
+	{
+		int a=10; 	// initializing normal variable
+		int *p; 	// declaring pointer variable
+		p=&a; 	// address of variable a is assigned to p
+		cout<<"value of a="<<a;
+		cout<<"address of a="<<&a;
+		cout<<"value of p="<<p;
+		cout<<"address of p="<<&p;
+		cout<<"value of *p="<<*P; 
+	}
+
+
+	/*
+	### Output ###
+	value of a=10
+	address of a=8284
+	value of p=8284
+	address of p=8288
+	value of *p=10
+
+	*/
+
+
+	```
+
+  - **Output Explanation**
+	Assume that the addres of variable a is 8284 and address of variable p is 8288, it may be different in your system
+
+	   <br>
+	   <div align="left">
+       <img src="../imgs/C++/img29.jpg" height="60%" width="60%">
+	   </div>
+	   <br>
+
+
+  <a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/POINTER/Pointer%20Program%20List.md">Click for Practical Program</a>
 
 
 </details>
@@ -1032,15 +1384,360 @@
 
 <details><summary><b>Arrays in C++</b></summary>
 
-  - <details><summary><b>Function </b></summary>
+  - <details><summary><b>Single Dimension Array </b></summary>
 
 	  - **Definition**
+
+		1. It is a collection of data of same data type
+		2. It is used to store group of data simultaneously
+		3. It can store data of the same data type (i.e an integer array can store only integer value, character array can store only character value and so on)
+		4. We can not fetch data from array directly , therefore, we use index point
+		5. The indexing of array alway start with '0'
+		6. Index value is always an integer number
+		7. Array may be of any data type like `int,char,float` etc
+
+		<br>
+
+	  - **Syntax**
+
+	    <br>
+	    <div align="left">
+        <img src="../imgs/C++/img30.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
+
+		1. Here 'a' is the name of array
+		2. 'int' is the data type of array
+		3. Size of array is 5 means, we can store maximum of 5 values in this array
+
+
+	  - **Initialization of array (method 1)**
+
+		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img31.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
+
+
+	  - **Initialization of array (method 2)**
+
+		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img32.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
+
+	  - **Printing of array element (method 1)**
+
+		```
+
+		#include<iostream>
+		using namespace std;
+		int main()
+		{
+			int a[5]={20,10,80,70,60};
+			cout<<"value at a[0]="<<a[0]<<"\n";
+			cout<<"value at a[1]="<<a[1]<<"\n";
+			cout<<"value at a[2]="<<a[2]<<"\n";
+			cout<<"value at a[3]="<<a[3]<<"\n";
+			cout<<"value at a[4]="<<a[4]<<"\n";
+		}
+
+
+		/*
+		### Output ###
+		value at a[0]=20
+		value at a[1]=10
+		value at a[2]=80
+		value at a[3]=70
+		value at a[4]=60
+
+		*/
+
+		```
+
+
+	  - **Printing of array element using loop (method 2)**
+
+		```
+
+		#include<iostream>
+		using namespace std;
+		int main()
+		{
+			int a[5]={20,10,80,70,60};
+			for(int i=0;i<=4;i++)
+			cout<<"value at a["<<i<<"]="<<a[i]<<"\n";
+		}
+
+
+		/*
+		### Output ###
+		value at a[0]=20
+		value at a[1]=10
+		value at a[2]=80
+		value at a[3]=70
+		value at a[4]=60
+
+		*/
+
+		```
+
+
+	  - **User input in array**
+
+		```
+
+		#include<iostream>
+		using namespace std;
+		int main()
+		{
+			int a[5];
+			cout<<"Enter element 1=";
+			cin>>a[0];
+			cout<<"Enter element 2=";
+			cin>>a[1];
+			cout<<"Enter element 3=";
+			cin>>a[2];
+			for(int i=0;i<=2;i++)
+			cout<<"Value at a["<<i<<"]="<<a[i]<<"\n";
+			
+		}
+
+
+		/*
+		### Output ###
+		Enter element 1=45
+		Enter element 2=20
+		Enter element 3=60
+		value at a[0]=45
+		value at a[1]=20
+		value at a[2]=60
+
+		*/
+
+		```
+
+
+	  - **User input in array using loop**
+
+		```
+
+		#include<iostream>
+		using namespace std;
+		int main()
+		{
+			int a[5],i;
+			for(int i=0;i<=2;i++)
+			{
+				cout<<"Enter element "<<i+1<<"=";
+				cin>>a[i];
+			}
+			for(int i=0;i<=2;i++)
+			cout<<"Value at a["<<i<<"]="<<a[i]<<"\n";
+			
+		}
+
+
+		/*
+		### Output ###
+		Enter element 1=45
+		Enter element 2=20
+		Enter element 3=60
+		value at a[0]=45
+		value at a[1]=20
+		value at a[2]=60
+
+		*/
+
+		```
+
+
+
+
+		<br>
+
+
+		<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/ARRAY/Single%20Dimension%20Array/Array%20Program%20List.md">Click for Practical Program</a>
+
+
+
+
+
 
     </details>
 
-  - <details><summary><b>Function </b></summary>
+  - <details><summary><b>Double Dimension Array </b></summary>
 
 	  - **Definition**
+
+		1. It is a collection of data of same data type
+		2. It is used to store group of data simultaneously
+		3. It can store data of the same data type (i.e an integer array can store only integer value, character array can store only character value and so on)
+		4. We can not fetch data from array directly , therefore, we use index point
+		5. The indexing of array alway start with '0'
+		6. Index value is always an integer number
+		7. Array may be of any data type like `int,char,float` etc
+
+
+		<br>
+
+	  - **Syntax**
+
+	    <br>
+	    <div align="left">
+        <img src="../imgs/C++/img33.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
+
+		1. Here 'a' is the name of array
+		2. 'int' is the data type of array
+		3. Size of array is 3x3 means, we can store maximum of 9 values in this array
+
+
+	  - **Initialization of array (method 1)**
+
+		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img34.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
+
+
+	  - **Initialization of array (method 2)**
+
+		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img35.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
+
+	  - **Printing of array element (method 1)**
+
+		```
+
+		#include<iostream>
+		using namespace std;
+		int main()
+		{
+			int a[3][3]={{10,20,30},{70,80,90},{40,50,60}};
+			cout<<"value at a[0][0]="<<a[0][0]<<"\n";
+			cout<<"value at a[0][1]="<<a[0][1]<<"\n";
+			cout<<"value at a[0][2]="<<a[0][2]<<"\n";
+			cout<<"value at a[1][0]="<<a[1][0]<<"\n";
+			cout<<"value at a[1][1]="<<a[1][1]<<"\n";
+			cout<<"value at a[1][2]="<<a[1][2]<<"\n";
+			cout<<"value at a[2][0]="<<a[2][0]<<"\n";
+			cout<<"value at a[2][1]="<<a[2][1]<<"\n";
+			cout<<"value at a[2][2]="<<a[2][2]<<"\n";
+			
+		}
+
+
+		/*
+		### Output ###
+		value at a[0][0]=10
+		value at a[0][1]=20
+		value at a[0][2]=30
+		value at a[1][0]=70
+		value at a[1][1]=80
+		value at a[1][2]=90
+		value at a[2][0]=40
+		value at a[2][1]=50
+		value at a[2][2]=60
+
+		*/
+
+		```
+
+
+	  - **Printing of array element using loop (method 2)**
+
+		```
+
+		#include<iostream>
+		using namespace std;
+		int main()
+		{
+			int a[3][3]={{10,20,30},{70,80,90},{40,50,60}};
+			for(int i=0;i<=2;i++)
+			{
+				for(int j=0;j<=2;j++)
+				{
+					cout<<[i][j]<<" ";
+				}
+				cout<<"\n";
+			}
+		}
+
+
+		/*
+		### Output ###
+		10 20 30
+		70 80 90
+		40 50 60
+
+		*/
+
+		```
+
+
+	  - **User input in array using loop**
+
+		```
+
+		#include<iostream>
+		using namespace std;
+		int main()
+		{
+			int a[3][3];
+			int i,j;
+			cout<<"Enter 9 element one by one\n";
+			for(int i=0;i<=2;i++)
+			  for(int j=0;j<=2;j++)
+			   cin>>a[i][j];
+			cout<<"Element is given below\n";
+			for(int i=0;i<=2;i++)
+			{
+				for(int j=0;j<=2;j++)
+				{
+					cout<<a[i][j]<<" ";
+				}
+				cout<<'\n";
+			}
+		}
+
+
+		/*
+		### Output ###
+		Enter 9 element one by one
+		5
+		6
+		5
+		8
+		7
+		9
+		3
+		1
+		5
+		Element is given below
+		5 6 5
+		8 7 9
+		3 1 5
+
+		*/
+
+		```
+
+
+
+
+		<br>
+
+
+		<a href="../C%2B%2B%20Basic%20Tutorials/Simple%20Programs/ARRAY/Double%20Dimension%20Array/Array%20Program%20List.md">Click for Practical Program</a>
+
 
     </details>
 
@@ -1070,14 +1767,12 @@
 
     - **Syntax**
 
-		<img>
-
-
-		<br><br>
-		
-		<img>
-
 		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img36.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
+
 
     - **Key point about the function**
   
@@ -1510,7 +2205,11 @@
 	   5. All the string functions are predefined in `string.h` header file
 
 
-		<img>
+		<br>
+	    <div align="left">
+        <img src="../imgs/C%2B%2B/img37.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
 
 
     - **strlen(s)**
@@ -1727,10 +2426,15 @@
 	   3. All the math function are predefined in `math.h` header file
 
 
-		<img>
+		<br>
+	    <div align="left">
+        <img src="../imgs/C%2B%2B/../C++/img38.jpg" height="60%" width="60%">
+		<br>
+		<img src="../imgs/C%2B%2B/../C++/img38b.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
 
 
-		<br><br>
 
     - **Example:**
 
@@ -1883,10 +2587,11 @@
 
     - **Syntax**
 
-		<img>
-
-
-		<br><br>
+		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img39.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
 
     - **Example:**
 
@@ -1958,10 +2663,14 @@
 
     - **Syntax**
 
-		<img>
+		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img40.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
 
 
-		<br><br>
+		
 
     - **Example:**
 
@@ -2036,10 +2745,11 @@
 
     - **Syntax**
 
-		<img>
-
-
-		<br><br>
+		<br>
+	    <div align="left">
+        <img src="../imgs/C++/img41.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
 
     - **Example:**
 
@@ -2176,7 +2886,11 @@
 	`open(const char *filename, ios::openmode mode);`
 	- Different file opening mode is given below:
 
-	<img> Table<img>
+	    <br>
+	    <div align="left">
+        <img src="../imgs/C++/img42.jpg" height="60%" width="60%">
+	    </div>
+	    <br>
 
 
 
@@ -2356,27 +3070,6 @@
 	```
 
 </details>
-
-
-
-<!--
-
-#### Escape Sequence in C++
- 
-| Escape Sequence            |                    Description                |
-| -------------------------- | :-------------------------------------------: |
-| \n   or  endl              |    To insert a new line or to break lines     |
-| \n\n                       |         create a blank line                   |
-|      \t                    |         Creates a horizontal tab              |
-|       \\                   |   Inserts a backslash character (\)           |
-|         \"                 |         Inserts a double quote character      | 
-
-
-
-
--->
-
-
 
 
 <br><br><br>
