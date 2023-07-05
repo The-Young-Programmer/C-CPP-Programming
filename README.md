@@ -707,12 +707,12 @@ int main() {
 
 <p align="center"><strong>Connect With Us</strong></p>
 <p align="center">
- <a href="https://instagram.com/ccppprogramming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/instagram-512.png" width="35"/></a>
- <a href="https://www.facebook.com/cppprogrammin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs//gradient/icons8-facebook-512.png" width="35" /></a>
- <a href="https://twitter.com/CCppProgrmming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/twitter-512.png" width="35" /></a>
- <a href="https://chat.whatsapp.com/CQVyOVUaukw0ejcKWfQ0YO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/icons8-whatsapp-512.png" width="35"/></a>
- <a href="https://t.me/+pcrI72da_R85ZmNk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/icons8-telegram-app-512.png" width="35"/></a>
- <a href="mailto:typ.softwares@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/The-Young-Programmer/The-Young-Programmer/main/imgs/gradient/gmail-logo-512.png" width="35"/></a>
+ <a href="https://instagram.com/ccppprogramming" target="_blank" rel="noreferrer"><img src="https://github.com/The-Young-Programmer/C-CPP-Programming/assets/79866006/6c7a79ba-abd9-4b13-90a3-c74c0fb58575" width="35"/></a>
+ <a href="https://www.facebook.com/cppprogrammin" target="_blank" rel="noreferrer"><img src="https://github.com/The-Young-Programmer/C-CPP-Programming/assets/79866006/4d8eaaa8-badf-4f56-8def-3401fabeb4a3" width="35" /></a>
+ <a href="https://twitter.com/CCppProgrmming" target="_blank" rel="noreferrer"><img src="https://github.com/The-Young-Programmer/C-CPP-Programming/assets/79866006/74462792-f5bd-4412-80f5-687c2c561cce" width="35" /></a>
+ <a href="https://chat.whatsapp.com/CQVyOVUaukw0ejcKWfQ0YO" target="_blank" rel="noreferrer"><img src="https://github.com/The-Young-Programmer/C-CPP-Programming/assets/79866006/afc0938f-8fbc-4cf6-beb4-3a2cc586359b" width="35"/></a>
+ <a href="https://t.me/+pcrI72da_R85ZmNk" target="_blank" rel="noreferrer"><img src="https://github.com/The-Young-Programmer/C-CPP-Programming/assets/79866006/ee696c4f-c447-45dc-958b-3529f69f2fb8" width="35"/></a>
+ <a href="mailto:typ.softwares@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/The-Young-Programmer/C-CPP-Programming/assets/79866006/b26c73b5-abdb-4eae-970d-b400bf214a06" width="35"/></a>
 </p>
  
  
