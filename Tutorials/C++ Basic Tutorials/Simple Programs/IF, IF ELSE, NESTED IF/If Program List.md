@@ -33,7 +33,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -41,7 +41,6 @@
 
 
 
-<a href="greater-3values">
  <hr>
 
  <details><summary>GREATER VALUE IN 3 NUMBER</summary>
@@ -69,7 +68,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -101,7 +100,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
 </details>
@@ -136,7 +135,7 @@
 
     ```
 
-<img>
+<img>  ### Output Img ###
 
 
  </details>
@@ -168,7 +167,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -200,7 +199,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -233,7 +232,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -269,7 +268,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -302,7 +301,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -340,7 +339,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -378,7 +377,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -410,7 +409,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -445,7 +444,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -477,7 +476,7 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
@@ -507,12 +506,21 @@
 
     ```
 
-<img>
+<img> ### Output Img ###
 
 
  </details>
+<hr>
 
 
+
+
+<br><br>
+
+**NoteNote:**
+ - Give a STAR if you like this 
+ - FORK to get more update
+ - Make a PULL REQUEST to countribute
 
 
 
