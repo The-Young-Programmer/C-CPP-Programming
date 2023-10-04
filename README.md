@@ -3,7 +3,7 @@
 
 
  
- <a href="https://c-cpp-programming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/236609770-d36c7858-a686-43f0-be41-250ac679f836.png" width="250" height="250"></a>
+ <a href="https://cppprogramming.netlify.app/"><img src="https://user-images.githubusercontent.com/79866006/236609770-d36c7858-a686-43f0-be41-250ac679f836.png" width="250" height="250"></a>
 
 
   C/C++ Programming for Beginners <br> <i>Basic to Advance</i> 
@@ -81,7 +81,7 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 </details>
 
 <details><summary>C++ Advance (GUI)</summary>
-  Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
+  Visit <a href="https://cppprogramming.netlify.app/" target="_blank"> here </a> for full course
 </details>
 
 <details><summary>C Basics</summary>
@@ -117,7 +117,7 @@ Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a
 </details>
 
 <details><summary>C Advance (GUI)</summary>
-  Visit <a href="https://c-cpp-programming.netlify.app/" target="_blank"> here </a> for full course
+  Visit <a href="https://cppprogramming.netlify.app/" target="_blank"> here </a> for full course
 </details>
  
  <details><summary>Projects</summary>
