@@ -53,7 +53,7 @@
 
 <details><summary> What is Programming?</summary>
 
-- Programming is a process to write a code to construct an application and the code is called program.
+- Programming is a process to write a code to construct an application and the source code is called program.
 
 </details>
 
