@@ -9,6 +9,6 @@ which is designed to cater to both Android and iOS users.
 
 - The app provides a user-friendly interface and an extensive collection of tutorials that cover various subjects.
 -  Whether you're looking to enhance your skills, learn new techniques, or explore different topics, our app has got you covered. 
--  To begin your learning C/C++ Programming journey, simply click <a href="https://c-cpp-programming.netlify.app/" target="_blank">here</a> to initiate the app download process.
+-  To begin your learning C/C++ Programming journey, simply click <a href="https://cppprogramming.netlify.app/" target="_blank">here</a> to initiate the app download process.
 
 
