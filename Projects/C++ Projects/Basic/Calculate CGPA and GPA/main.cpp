@@ -5,6 +5,7 @@ special right is given to TEAM TYP for educational purpose  */
 
 #include <iostream>
 #include <stdlib.h>
+#include <vector>
 
 using namespace std;
 
@@ -58,8 +59,8 @@ void calculateGPA()
     cout<<" How many subject's points do you want to calculate? : ";
     cin>>q;
 
-    float credit [q];
-    float point [q];
+    std::vector<int> credit(q);
+    std::vector<int> point(q);
 
     cout<<endl;
     for(int i=0;i<q;i++)
@@ -121,7 +122,7 @@ void calculateCGPA()
     cout<<"How many semester results do you want input? :";
     cin>>l;
     cout<<"\n\n"<<endl;
-    float semrs[l];
+    std::vector<int> semrs(l);
     int i;
 
     for(i=0;i<l;i++)
