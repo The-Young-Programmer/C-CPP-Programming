@@ -1,3 +1,5 @@
+> <h1>⚠️ Warning: This repository was moved to <a href="https://github.com/The-Young-Programer/C-CPP-Programming">this one</a>. The owner of project losed his accont, then he will now update everything there...</h1>
+
 <h1 align="center">
  
 
