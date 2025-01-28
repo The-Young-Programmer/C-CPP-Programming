@@ -1,3 +1,4 @@
+//this is cpp calculator program
 #include <iostream>
 
 using namespace std;
@@ -52,7 +53,7 @@ long double power(long double base, long double exponent)
 int panel;
 long double a;
 long double b;
-
+//creating the void function
 void ctrl_panel()
 {
     cout << "Control Panel\n\nOperators: \n\n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n5.Exponent\n6.Multiplication Table\n7.Celcius to Farenheit\n8.Farenheit to Celcius\n\n0.Back\n";
