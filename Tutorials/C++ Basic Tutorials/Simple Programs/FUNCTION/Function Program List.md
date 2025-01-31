@@ -18,9 +18,9 @@
     using namespace std;
     void add()
         {
-            int x,y=70,z=50;
-            x=y+z;
-            cout<<"Add="<<x;
+            int sum,y=70,z=50;
+            sum=y+z;
+            cout<<"Add="<<sum;
         }
         int main()
         {
@@ -50,15 +50,15 @@
 
     #include <iostream>
     using namespace std;
-    void main()
+    void sub()
         {
-            int x,y=70,z=50;
-            x=y-z;
+            int sub,y=70,z=50;
+            sub=y-z;
             cout<<"Sub="<<x;
         }
         int main()
         {
-            add();
+            sub();
         }
 
 
