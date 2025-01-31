@@ -66,7 +66,7 @@
             cin>>*q;
             cout<<"Enter second number\n";
             cin>>*r;
-            *p=*q=*r;
+            *p=*q+*r;
             cout<<"Add="<<*p;
         }
 
